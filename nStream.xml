@@ -1,0 +1,13 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name>Dropbox playlist root</playlist_name> 
+
+<channel>
+    <title><![CDATA[playlist]]></title>
+    <playlist_url><![CDATA[https://dl.dropboxusercontent.com/u/16524640/play.xml]]></playlist_url>
+    <description><![CDATA[playlist]]></description>
+    <logo_30x30>http://tsnakeman.net.ua/widget/logo/ex.png</logo_30x30>
+</channel>
+
+</items>
