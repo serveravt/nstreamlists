@@ -2,7 +2,7 @@
 import sys
 import codecs
 import xml.etree.cElementTree as ET
-import urllib
+import urllib. string
 
 
 class track():
@@ -80,7 +80,7 @@ def saveAsXML(playlist):
     tree.write("output.xml", encoding="UTF-8", xml_declaration=True)
 
 def downloadNewList():
-    urllib.urlretrieve("http://127.0.0.1:8000/torrent-telik", "list.m3u")
+    urllib.urlretrieve("http://192.168.1.203:8000/torrent-telik", "list.m3u")
 
 def convert():
     # m3ufile=sys.argv[1]
