@@ -2,6 +2,8 @@
 import sys
 import codecs
 import xml.etree.cElementTree as ET
+import urllib
+
 
 class track():
     def __init__(self,  title, path):
@@ -77,12 +79,20 @@ def saveAsXML(playlist):
     tree = ET.ElementTree(items)
     tree.write("output.xml", encoding="UTF-8", xml_declaration=True)
 
+def downloadNewList():
+    urllib.urlretrieve("http://127.0.0.1:8000/torrent-telik", "list.m3u")
+
+def convert():
+    # m3ufile=sys.argv[1]
+    downloadNewList()
+    m3ufile = "list.m3u"
+    playlist = parsem3u(m3ufile)
+    saveAsXML(playlist)
+
 # for now, just pull the track info and print it onscreen
 # get the M3U file path from the first command line argument
 def main():
-    m3ufile=sys.argv[1]
-    playlist = parsem3u(m3ufile)
-    saveAsXML(playlist)
+   convert()
 
 
 if __name__ == '__main__':
