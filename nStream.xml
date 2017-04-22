@@ -10,4 +10,14 @@
     <logo_30x30>http://tsnakeman.net.ua/widget/logo/ex.png</logo_30x30>
 </channel>
 
+<channel>
+    <title><![CDATA[Sun Net IP-TV]]></title>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/serveravt/nstreamlists/master/torrent-telik.xml]]></playlist_url>
+    <description><![CDATA[playlist]]></description>
+    <logo_30x30>http://tsnakeman.net.ua/widget/logo/ex.png</logo_30x30>
+</channel>
+
+
+
+
 </items>
