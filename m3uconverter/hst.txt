@@ -1,0 +1,148 @@
+1+1
+http://iptv.sunnet.ua:8888/udp/239.10.0.1:1234/
+1+1 International
+http://iptv.sunnet.ua:8888/udp/239.10.0.2:1234/
+2+2
+http://iptv.sunnet.ua:8888/udp/239.10.0.3:1234/
+5 канал
+http://iptv.sunnet.ua:8888/udp/239.10.0.4:1234/
+ICTV
+http://iptv.sunnet.ua:8888/udp/239.10.0.5:1234/
+Наука
+http://iptv.sunnet.ua:8888/udp/239.10.0.6:1234/
+Интер
+http://iptv.sunnet.ua:8888/udp/239.10.0.7:1234/
+Интер+
+http://iptv.sunnet.ua:8888/udp/239.10.0.8:1234/
+К1
+http://iptv.sunnet.ua:8888/udp/239.10.0.9:1234/
+М1
+http://iptv.sunnet.ua:8888/udp/239.10.0.10:1234/
+Мега
+http://iptv.sunnet.ua:8888/udp/239.10.0.11:1234/
+Новый Канал
+http://iptv.sunnet.ua:8888/udp/239.10.0.12:1234/
+НТН (Украина)
+http://iptv.sunnet.ua:8888/udp/239.10.0.13:1234/
+Первый национальный
+http://iptv.sunnet.ua:8888/udp/239.10.0.14:1234/
+PlusPlus
+http://iptv.sunnet.ua:8888/udp/239.10.0.15:1234/
+СТБ
+http://iptv.sunnet.ua:8888/udp/239.10.0.16:1234/
+TET
+http://iptv.sunnet.ua:8888/udp/239.10.0.17:1234/
+Тонис
+http://iptv.sunnet.ua:8888/udp/239.10.0.18:1234/
+ТРК Киев
+http://iptv.sunnet.ua:8888/udp/239.10.0.19:1234/
+Epoque
+http://iptv.sunnet.ua:8888/udp/239.10.0.20:1234/
+QTV
+http://iptv.sunnet.ua:8888/udp/239.10.0.23:1234/
+Бигуди
+http://iptv.sunnet.ua:8888/udp/239.10.0.24:1234/
+Mi lady
+http://iptv.sunnet.ua:8888/udp/239.10.0.25:1234/
+Индиго
+http://iptv.sunnet.ua:8888/udp/239.10.0.26:1234/
+НЛО TV
+http://iptv.sunnet.ua:8888/udp/239.10.0.27:1234/
+Донбасс
+http://iptv.sunnet.ua:8888/udp/239.10.0.28:1234/
+Terra
+http://iptv.sunnet.ua:8888/udp/239.10.0.34:1234/
+Boutique TV
+http://iptv.sunnet.ua:8888/udp/239.10.0.44:1234/
+ATR
+http://iptv.sunnet.ua:8888/udp/239.10.0.47:1234/
+Eko TV
+http://iptv.sunnet.ua:8888/udp/239.10.0.50:1234/
+Малятко TV
+http://iptv.sunnet.ua:8888/udp/239.10.0.54:1234/
+Pixel
+http://iptv.sunnet.ua:8888/udp/239.10.0.55:1234/
+BBC News
+http://iptv.sunnet.ua:8888/udp/239.10.0.57:1234/
+Громадське
+http://iptv.sunnet.ua:8888/udp/239.10.0.58:1234/
+Рабинович ТВ
+http://iptv.sunnet.ua:8888/udp/239.10.0.59:1234/
+CCTV9
+http://iptv.sunnet.ua:8888/udp/239.10.0.61:1234/
+Euronews
+http://iptv.sunnet.ua:8888/udp/239.10.0.63:1234/
+THT
+http://iptv.sunnet.ua:8888/udp/239.10.0.65:1234/
+NEWS ONE
+http://iptv.sunnet.ua:8888/udp/239.10.0.66:1234/
+SHOPping TV
+http://iptv.sunnet.ua:8888/udp/239.10.0.67:1234/
+Espresso TV
+http://iptv.sunnet.ua:8888/udp/239.10.0.68:1234/
+News 24
+http://iptv.sunnet.ua:8888/udp/239.10.0.69:1234/
+Рада
+http://iptv.sunnet.ua:8888/udp/239.10.0.70:1234/
+Перший Дiловий
+http://iptv.sunnet.ua:8888/udp/239.10.0.71:1234/
+Euronews Украина
+http://iptv.sunnet.ua:8888/udp/239.10.0.72:1234/
+УБК
+http://iptv.sunnet.ua:8888/udp/239.10.0.73:1234/
+A-ONE
+http://iptv.sunnet.ua:8888/udp/239.10.0.76:1234/
+ZOOM
+http://iptv.sunnet.ua:8888/udp/239.10.0.79:1234/
+Music Box
+http://iptv.sunnet.ua:8888/udp/239.10.0.80:1234/
+Fauna
+http://iptv.sunnet.ua:8888/udp/239.10.0.81:1234/
+Глаc
+http://iptv.sunnet.ua:8888/udp/239.10.0.82:1234/
+112 (HD)
+http://iptv.sunnet.ua:8888/udp/239.10.0.83:1234/
+Ля-минор ТВ
+http://iptv.sunnet.ua:8888/udp/239.10.0.84:1234/
+M2
+http://iptv.sunnet.ua:8888/udp/239.10.0.85:1234/
+OTV
+http://iptv.sunnet.ua:8888/udp/239.10.0.86:1234/
+FilmUADrama
+http://iptv.sunnet.ua:8888/udp/239.10.0.87:1234/
+Шансон ТВ
+http://iptv.sunnet.ua:8888/udp/239.10.0.88:1234/
+Надия
+http://iptv.sunnet.ua:8888/udp/239.10.0.90:1234/
+K2
+http://iptv.sunnet.ua:8888/udp/239.10.0.93:1234/
+Дача
+http://iptv.sunnet.ua:8888/udp/239.10.0.98:1234/
+Enter Film
+http://iptv.sunnet.ua:8888/udp/239.10.0.115:1234/
+Трофей
+http://iptv.sunnet.ua:8888/udp/239.10.0.116:1234/
+Dobro TV
+http://iptv.sunnet.ua:8888/udp/239.10.0.117:1234/
+Сонце
+http://iptv.sunnet.ua:8888/udp/239.10.0.118:1234/
+Глас
+http://iptv.sunnet.ua:8888/udp/239.10.0.120:1234/
+Право TV
+http://iptv.sunnet.ua:8888/udp/239.10.0.121:1234/
+Унiан ТВ
+http://iptv.sunnet.ua:8888/udp/239.10.0.122:1234/
+Kvartal TV
+http://iptv.sunnet.ua:8888/udp/239.10.0.124:1234/
+3S
+http://iptv.sunnet.ua:8888/udp/239.10.0.125:1234/
+ЧП INFO
+http://iptv.sunnet.ua:8888/udp/239.10.0.126:1234/
+Макси
+http://iptv.sunnet.ua:8888/udp/239.10.0.133:1234/
+Про ВСЕ
+http://iptv.sunnet.ua:8888/udp/239.10.0.135:1234/
+Lale
+http://iptv.sunnet.ua:8888/udp/239.10.0.136:1234/
+Тонис HD
+http://iptv.sunnet.ua:8888/udp/239.10.0.150:1234/
