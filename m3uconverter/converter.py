@@ -2,7 +2,7 @@
 import sys
 import codecs
 import xml.etree.cElementTree as ET
-import urllib. string
+import urllib
 
 
 class track():
