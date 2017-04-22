@@ -1,0 +1,23 @@
+#! /bin/sh
+# /etc/init.d/nstreamserver 
+
+
+case "$1" in
+  start)
+    echo "Starting"
+    cd /usr/nstreamlists/m3uconverter
+    python server.py >/var/log/nstreamserver.log 2>&1 &
+   
+    ;;
+  stop)
+    echo "Stopping "
+    # kill application you want to stop
+    pkill -f /usr/nstreamlists/m3uconverter/server.py
+    ;;
+  *)
+    echo "Usage: /etc/init.d/nstreamserver {start|stop}"
+    exit 1
+    ;;
+esac
+
+exit 0
