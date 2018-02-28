@@ -3,6 +3,14 @@
 <items>
 <playlist_name>Playlist root</playlist_name> 
 
+
+<channel>
+    <title><![CDATA[Corbina IP-TV]]></title>
+    <playlist_url><![CDATA[https://raw.githubusercontent.com/serveravt/nstreamlists/master/corbina.xml]]></playlist_url>
+    <description><![CDATA[playlist]]></description>
+    <logo_30x30>http://tsnakeman.net.ua/widget/logo/ex.png</logo_30x30>
+</channel>
+
 <channel>
     <title><![CDATA[Sun Net IP-TV]]></title>
     <playlist_url><![CDATA[https://raw.githubusercontent.com/serveravt/nstreamlists/master/sun_net.xml]]></playlist_url>

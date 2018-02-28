@@ -1,1295 +1,340 @@
-#EXTM3U url-tvg="http://simple-tv.torrent-telik.com/teleprograma" tvg-shift=0
-#EXTINF:-1 group-title="Развлекательные" tvg-name="0x0_Fireplace_HD" tvg-id="" tvg-logo="",0x0 Fireplace HD
-http://192.168.1.203:8000/pid/bc7797153df833a2075699f54d42066a913d1f9b/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="0x0_Music_HD" tvg-id="" tvg-logo="",0x0 Music HD
-http://192.168.1.203:8000/pid/a41758e7a5bdf6ca7ee3d789a18d78ad5e74cd03/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="1_HD" tvg-id="" tvg-logo="",1 HD
-http://192.168.1.203:8000/pid/f32d0197a8ab312f9eacfc928dad098f692d84b1/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="1+1" tvg-id="" tvg-logo="",1+1
-http://192.168.1.203:8000/pid/f46ba97d05bcf41658b5d62573bc15caf440d4ef/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="10_channel_(Израиль)" tvg-id="" tvg-logo="",10 channel (Израиль)
-http://192.168.1.203:8000/pid/9163c2f3f0521c9164e5e434878f2bd3affe1f6a/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="100%_News" tvg-id="" tvg-logo="",100% News
-http://192.168.1.203:8000/pid/96e1f3a1438063e191814afb7a3e8fac2f6c4081/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="112_Украина" tvg-id="" tvg-logo="",112 Украина
-http://192.168.1.203:8000/pid/dcd01920ffc4fc24e2b3ba13c4b9bf55daef3ca6/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="112_Украина_HD" tvg-id="" tvg-logo="",112 Украина HD
-http://192.168.1.203:8000/pid/d62e832a06ea85956fb9933251039920868e3da2/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="12_Канал_(Омск)" tvg-id="" tvg-logo="",12 Канал (Омск)
-http://192.168.1.203:8000/pid/96256e5e3a9b51544223c8c0098327ecc70abed0/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="2+2" tvg-id="" tvg-logo="",2+2
-http://192.168.1.203:8000/pid/f8d6ebc8724f765e8f2dbc7c6e79dc52bf71fbd7/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="22_channel_(Израиль)" tvg-id="" tvg-logo="",22 channel (Израиль)
-http://192.168.1.203:8000/pid/1e2644e207a3244025c1755ea9a3d4966440d889/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="24_Док" tvg-id="" tvg-logo="",24 Док
-http://192.168.1.203:8000/pid/616c0add12374278505b52e16ddef2b5a4561322/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="24_Украина" tvg-id="" tvg-logo="",24 Украина
-http://192.168.1.203:8000/pid/3c4f4a289eef57f772ee607bbf90105aa2913714/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="2x2" tvg-id="" tvg-logo="",2x2
-http://192.168.1.203:8000/pid/f77569d57ef7ec3b418ab56eae6d4dc4594da8d6/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="2x2_(+2)" tvg-id="" tvg-logo="",2x2 (+2)
-http://192.168.1.203:8000/pid/9eab0336b05507b9f88a44afe9e2d84935f8be5d/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="360_градусов" tvg-id="" tvg-logo="",360 градусов
-http://192.168.1.203:8000/pid/1a50976df654907b21fb025cf1834a5bbf344d9d/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="360_градусов_HD" tvg-id="" tvg-logo="",360 градусов HD
-http://192.168.1.203:8000/pid/073bee610b1f54c11e7760a671a9b61d11df2e22/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="365_Дней" tvg-id="" tvg-logo="",365 Дней
-http://192.168.1.203:8000/pid/a2da2faa50f2497293738bc7e87896f595355cf7/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="43_Канал_HD_(Туапсе)" tvg-id="" tvg-logo="",43 Канал HD (Туапсе)
-http://192.168.1.203:8000/pid/2a8c6aaf5eec919ef6a95848e4fd8d67307d92e3/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="47_канал" tvg-id="" tvg-logo="",47 канал
-http://192.168.1.203:8000/pid/b1c313729c2d0027afcbcdefadbbe169a286c45a/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="49_канал_(Новосибирск)" tvg-id="" tvg-logo="",49 канал (Новосибирск)
-http://192.168.1.203:8000/pid/eb3512b2e453264a862b654bc41015a38b59a72f/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="5_канал_(Украина)" tvg-id="" tvg-logo="",5 канал (Украина)
-http://192.168.1.203:8000/pid/2d893386d01e109be540f6c47c2d42472ea1fe45/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="8_канал" tvg-id="" tvg-logo="",8 канал
-http://192.168.1.203:8000/pid/b2468afde236c9b92eed17953807150fce097be3/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="8_канал_(Красноярск)" tvg-id="" tvg-logo="",8 канал (Красноярск)
-http://192.168.1.203:8000/pid/bb8f20da5b9f22c2d37c34d4e75d4276043e00b0/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="9_волна" tvg-id="" tvg-logo="",9 волна
-http://192.168.1.203:8000/pid/667ba8eeb4ef81acd5b164be1001971ebdcef5ad/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="9_канал_(Израиль)" tvg-id="" tvg-logo="",9 канал (Израиль)
-http://192.168.1.203:8000/pid/56cd8b5d0cce708832d5b24d7c82a967600bd3aa/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="9_канал_HD_(Израиль)" tvg-id="" tvg-logo="",9 канал HD (Израиль)
-http://192.168.1.203:8000/pid/e7389b160529d0fac803e826095e8bb5092d6b74/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Abu_Dhabi_TV_HD" tvg-id="" tvg-logo="",Abu Dhabi TV HD
-http://192.168.1.203:8000/pid/9e5f1e73dc3bf515d944e2529c4a3752778e6a75/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Al_Rayyan_2_HD" tvg-id="" tvg-logo="",Al Rayyan 2 HD
-http://192.168.1.203:8000/pid/6cf95683ce74408d5fc1be129c6666620af7af6d/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="AMC" tvg-id="" tvg-logo="",AMC
-http://192.168.1.203:8000/pid/76e45ec03946d3cd9bc6dacc0f6367dfde551a3f/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Amedia_1" tvg-id="" tvg-logo="",Amedia 1
-http://192.168.1.203:8000/pid/4b74cd4d37e6513b0463bf0afde07115cf6a50f1/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Amedia_1_HD" tvg-id="" tvg-logo="",Amedia 1 HD
-http://192.168.1.203:8000/pid/05800b0dd7fa3d2ad06ba84e736a7cfc10a89ab7/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Amedia_2" tvg-id="" tvg-logo="",Amedia 2
-http://192.168.1.203:8000/pid/2f329ddb9bb8b0e5c944036b309e06c815361225/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Amedia_Hit" tvg-id="" tvg-logo="",Amedia Hit
-http://192.168.1.203:8000/pid/97bd236aef1b8220a6b6b6b9325f5cc06e42a9e0/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Amedia_Hit_HD" tvg-id="" tvg-logo="",Amedia Hit HD
-http://192.168.1.203:8000/pid/6c26823e721f6d5e8062f3f8154bfac3eabc495f/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Amedia_Premium" tvg-id="" tvg-logo="",Amedia Premium
-http://192.168.1.203:8000/pid/2687db6c28d777920c0e63c84b17ba467606fa8f/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Amedia_Premium_HD" tvg-id="" tvg-logo="",Amedia Premium HD
-http://192.168.1.203:8000/pid/fdbcb1d8b50479c1b1ecc6bb36f3ad22116ab29f/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Ani" tvg-id="" tvg-logo="",Ani
-http://192.168.1.203:8000/pid/4ce82071c3c08a931ca11caa203c3622d6de05f1/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Animal_Family_HD" tvg-id="" tvg-logo="",Animal Family HD
-http://192.168.1.203:8000/pid/f4d778552dbcfbcc2c115d1822ead993eef0353a/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Animal_Planet" tvg-id="" tvg-logo="",Animal Planet
-http://192.168.1.203:8000/pid/a5fa6730398abd16d841d6754fe58a4e847a4d72/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Animаl_Planеt_HD" tvg-id="" tvg-logo="",Animаl Planеt HD
-http://192.168.1.203:8000/pid/8babbd0b9be0d2e52c1b3449743bc2f838115aa3/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Armenia_TV_Satellite" tvg-id="" tvg-logo="",Armenia TV Satellite
-http://192.168.1.203:8000/pid/0454d51fea839f46253503e70835cf77dc889744/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ATR" tvg-id="" tvg-logo="",ATR
-http://192.168.1.203:8000/pid/7cc1fea669f58a0a753cc0e71985577df651f314/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Az_TV" tvg-id="" tvg-logo="",Az TV
-http://192.168.1.203:8000/pid/09902b528aa24737cdfeeca71d793c8d31fba0c6/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="BBC_World_News" tvg-id="" tvg-logo="",BBC World News
-http://192.168.1.203:8000/pid/f02afb3b01b8693215d26e72d23f605c62661644/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Bloomberg" tvg-id="" tvg-logo="",Bloomberg
-http://192.168.1.203:8000/pid/2563b301c86316923dca21743f5fd4a1d9c82bf4/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Bollywood_HD" tvg-id="" tvg-logo="",Bollywood HD
-http://192.168.1.203:8000/pid/de80b9250ccaef0c6285ee2e65c9f88b9a0e4310/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Boomerang" tvg-id="" tvg-logo="",Boomerang
-http://192.168.1.203:8000/pid/652f3b2fa5e5452e20c605b741081f220dff950a/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Boutique_TV" tvg-id="" tvg-logo="",Boutique TV
-http://192.168.1.203:8000/pid/445c8735375dda7f4e29369b1c8b077bc75ec9a9/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Brazzers_TV" tvg-id="" tvg-logo="",Brazzers TV
-http://192.168.1.203:8000/pid/e8f4ed1d9aa020918f18389d5ce05659c8f4a8a1/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Brazzers_TV_Europe" tvg-id="" tvg-logo="",Brazzers TV Europe
-http://192.168.1.203:8000/pid/5c160aeba750182ca1d625847040f82fe77d11e0/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Bridge_HD" tvg-id="" tvg-logo="",Bridge HD
-http://192.168.1.203:8000/pid/b4ed4860931a17c82296f7a01e986d7cbd21424e/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Bridge_TV" tvg-id="" tvg-logo="",Bridge TV
-http://192.168.1.203:8000/pid/f1dff1af6f9399d8507d760d0ba617e357a93738/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Bridge_TV_Classic" tvg-id="" tvg-logo="",Bridge TV Classic
-http://192.168.1.203:8000/pid/08f2f1ef90e071d52dc405d5fb5feb62f2a7c3b0/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Bridge_TV_Dance" tvg-id="" tvg-logo="",Bridge TV Dance
-http://192.168.1.203:8000/pid/55b5badd69e1bca026effe1ab1912170b49b958f/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Brodilo_TV_HD" tvg-id="" tvg-logo="",Brodilo TV HD
-http://192.168.1.203:8000/pid/df42d8dcc401bc22e820de930b209b56f45bc818/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="BT_Sport_1" tvg-id="" tvg-logo="",BT Sport 1
-http://192.168.1.203:8000/pid/1cfbc10635f0388a8e92ea8154a6602a2869d84d/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="BT_Sport_2" tvg-id="" tvg-logo="",BT Sport 2
-http://192.168.1.203:8000/pid/4195d2c248b262e92aab43f6426736c4a3d14e86/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Business" tvg-id="" tvg-logo="",Business
-http://192.168.1.203:8000/pid/9df6735ab07136027056903366133cb29ba058f0/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Canal_3" tvg-id="" tvg-logo="",Canal 3
-http://192.168.1.203:8000/pid/8c994d4afc2dcb0caf1990e7972da43ce5661c9d/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Cartoon_Network" tvg-id="" tvg-logo="",Cartoon Network
-http://192.168.1.203:8000/pid/f6b68168c4f22c8656d0152fa0966e1cb6e1247f/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="CBS_Drama" tvg-id="" tvg-logo="",CBS Drama
-http://192.168.1.203:8000/pid/fc75193ce40da89985d17bb9f201fefa91ae7b58/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="CBS_Reality" tvg-id="" tvg-logo="",CBS Reality
-http://192.168.1.203:8000/pid/5166cf91cadd7fb75966369859d57eb972f0f08f/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="CentoXCento_TV" tvg-id="" tvg-logo="",CentoXCento TV
-http://192.168.1.203:8000/pid/7d3a2e6759f9c6c26db8684eaaf3e1b8ddd18821/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="CGTN" tvg-id="" tvg-logo="",CGTN
-http://192.168.1.203:8000/pid/dadd7505c22a8c8b0bd28fdd2a4844105940484a/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="CGTN_Documentary" tvg-id="" tvg-logo="",CGTN Documentary
-http://192.168.1.203:8000/pid/01fa30954d1615891703837d437b7d55a42a99d6/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="CGTN_Русский" tvg-id="" tvg-logo="",CGTN Русский
-http://192.168.1.203:8000/pid/a6eddf9b142cd0e8dda55fe6f001b7c0910a40aa/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Cinema" tvg-id="" tvg-logo="",Cinema
-http://192.168.1.203:8000/pid/55a28a3552a4ecf4f24b75d10e3e6b6a44352f2a/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="CNN_International" tvg-id="" tvg-logo="",CNN International
-http://192.168.1.203:8000/pid/8a19181d84eae011c8e87ca4fb9e6c431b125047/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Da_Vinci_Learning" tvg-id="" tvg-logo="",Da Vinci Learning
-http://192.168.1.203:8000/pid/0d325da8a51dc141a36b544e7ea8769a152e03de/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Deutsche_Welle" tvg-id="" tvg-logo="",Deutsche Welle
-http://192.168.1.203:8000/pid/f124bd3c14e9ba1a1499601000e62ff4e871dfd6/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Discovery_Channel" tvg-id="" tvg-logo="",Discovery Channel
-http://192.168.1.203:8000/pid/782d4d43c2d2d2a7ed3ac0031ae4fd1fe99f2cc6/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Discovery_Channel_HD" tvg-id="" tvg-logo="",Discovery Channel HD
-http://192.168.1.203:8000/pid/b9c67b46b60c2abe4cf667a2e202526f96ffb1d1/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Discovery_Science" tvg-id="" tvg-logo="",Discovery Science
-http://192.168.1.203:8000/pid/ffcb52982ed6e5b5887e689796dcc3c0bae82985/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Discovery_Showcase_HD" tvg-id="" tvg-logo="",Discovery Showcase HD
-http://192.168.1.203:8000/pid/3d2a4cfe5fc316c07db26a125796f99bac09b1f1/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Disney_Channel" tvg-id="" tvg-logo="",Disney Channel
-http://192.168.1.203:8000/pid/8c08110ac3d1b003b95b4ff3c6e134ab4e44a84f/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Disney_Channel_(+2)" tvg-id="" tvg-logo="",Disney Channel (+2)
-http://192.168.1.203:8000/pid/e83b92617ae2ba1765d024a181e93e87a85625d9/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Dog_TV" tvg-id="" tvg-logo="",Dog TV
-http://192.168.1.203:8000/pid/9ee63230e16711ec4efb7a1569a029aab403a93a/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="DTX" tvg-id="" tvg-logo="",DTX
-http://192.168.1.203:8000/pid/1bc3f499d6fc5f20c392b8dc17c806d03297c7fc/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="English_Club_TV" tvg-id="" tvg-logo="",English Club TV
-http://192.168.1.203:8000/pid/a8d25885414d80af5470249348e3f030034a359e/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Enter_Film" tvg-id="" tvg-logo="",Enter Film
-http://192.168.1.203:8000/pid/54b2687047f8ca256c6f596e163c68dafe6184f5/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Eska_Best_Music_TV_HD" tvg-id="" tvg-logo="",Eska Best Music TV HD
-http://192.168.1.203:8000/pid/03d0667983842e0bf1421b70537e703a9fb6449f/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Eska_OldsCool_TV_HD" tvg-id="" tvg-logo="",Eska OldsCool TV HD
-http://192.168.1.203:8000/pid/89c5c2dce9e49e38fef9429867e0ff8e9c240b35/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Eska_Party_TV_HD" tvg-id="" tvg-logo="",Eska Party TV HD
-http://192.168.1.203:8000/pid/ec41ab69074654aab7a3e8fc2c30abe8ac133559/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Eska_Rock_TV_HD" tvg-id="" tvg-logo="",Eska Rock TV HD
-http://192.168.1.203:8000/pid/ae7649dc56cc94dbd3c0f7274afe5b74487fba11/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Eska_Wawa_TV_HD" tvg-id="" tvg-logo="",Eska Wawa TV HD
-http://192.168.1.203:8000/pid/dc933dd0c9212c6baf33d5841e7c5980a4eac66e/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ETV_pluss" tvg-id="" tvg-logo="",ETV pluss
-http://192.168.1.203:8000/pid/d56f3de1b38443c6ee8e96aedbdb890622e54d7b/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="EU_Music" tvg-id="" tvg-logo="",EU Music
-http://192.168.1.203:8000/pid/908e20dfb13b5352aef680fbc70b44c7fde45604/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Eureka_HD" tvg-id="" tvg-logo="",Eureka HD
-http://192.168.1.203:8000/pid/587bbaf084d8f3c9221b6e0917a67003e269259f/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="EuroNews" tvg-id="" tvg-logo="",EuroNews
-http://192.168.1.203:8000/pid/955d0c194289a20056407628a90f1c427146f709/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Europa_Plus_TV" tvg-id="" tvg-logo="",Europa Plus TV
-http://192.168.1.203:8000/pid/8bb7871917cdc337e33a3bc6b0b6dba72f415989/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Eurosport_1" tvg-id="" tvg-logo="",Eurosport 1
-http://192.168.1.203:8000/pid/d21111d267043728d82700946cb583c99faa86c0/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Eurosport_1_HD" tvg-id="" tvg-logo="",Eurosport 1 HD
-http://192.168.1.203:8000/pid/6222b7bf081dfa395b627e886b65bb3eccc19aab/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Eurosport_2" tvg-id="" tvg-logo="",Eurosport 2
-http://192.168.1.203:8000/pid/43e96c2a9b2ca73bbab16080d79dd5434f603f79/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Eurosport_2_HD" tvg-id="" tvg-logo="",Eurosport 2 HD
-http://192.168.1.203:8000/pid/cec11df9d536509101d08fd3fd6f49f3ba0f1413/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Eurosport_News" tvg-id="" tvg-logo="",Eurosport News
-http://192.168.1.203:8000/pid/3ed23bb5260dc05c6cfb1dc23276a3a177c73c27/stream.mp4
-#EXTINF:-1 group-title="Религиозные" tvg-name="EWTN_UK_and_Ireland" tvg-id="" tvg-logo="",EWTN UK and Ireland
-http://192.168.1.203:8000/pid/79c4e83268308b863ee286f970dc04c7dc0154dc/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Exotica_TV" tvg-id="" tvg-logo="",Exotica TV
-http://192.168.1.203:8000/pid/61dfcfcf2a90db044637a3034600837226dea4ca/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Extreme_Sports" tvg-id="" tvg-logo="",Extreme Sports
-http://192.168.1.203:8000/pid/354d3c6b3d2639c1ccb8b7f4e4808a67e430e521/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_2" tvg-id="" tvg-logo="",FAP TV 2
-http://192.168.1.203:8000/pid/cbe17c5d7ab0f27b9168158ddd8033427a051bb7/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_2_HD" tvg-id="" tvg-logo="",FAP TV 2 HD
-http://192.168.1.203:8000/pid/c9bb51d86bc4d645d0ac314a0d452bdf197b72d5/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_3" tvg-id="" tvg-logo="",FAP TV 3
-http://192.168.1.203:8000/pid/b91c34697830e80d60731bdb27444b48abd1c3cd/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_4" tvg-id="" tvg-logo="",FAP TV 4
-http://192.168.1.203:8000/pid/0c9582e74e8697bf8f94f195badf38896a6beac5/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Amateur" tvg-id="" tvg-logo="",FAP TV Amateur
-http://192.168.1.203:8000/pid/60fca3fb26230b5549ac98835eb238c90a62901b/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Anal" tvg-id="" tvg-logo="",FAP TV Anal
-http://192.168.1.203:8000/pid/e49fcf426a00bb1ca462649641ba4cb81b5c245d/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_BBW" tvg-id="" tvg-logo="",FAP TV BBW
-http://192.168.1.203:8000/pid/77305c42e9872e81e9edaf8b0e06238abf2b924c/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Compilation" tvg-id="" tvg-logo="",FAP TV Compilation
-http://192.168.1.203:8000/pid/10af27fe5a7b9736e2654709b078a94eb4e94445/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Gay" tvg-id="" tvg-logo="",FAP TV Gay
-http://192.168.1.203:8000/pid/3165e2afa05b3d1135d5349d7484d29c1042765a/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Legal_Porno" tvg-id="" tvg-logo="",FAP TV Legal Porno
-http://192.168.1.203:8000/pid/92960d2afd18cf783639d10ef963f4ff01e2e2d5/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Lesbian" tvg-id="" tvg-logo="",FAP TV Lesbian
-http://192.168.1.203:8000/pid/19dc9fed0b88ab68af9bf74a7341ab29034d5fd3/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Older" tvg-id="" tvg-logo="",FAP TV Older
-http://192.168.1.203:8000/pid/a6e77b8c53bf22bbc9e5466a38b78c818341e1a4/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Parody" tvg-id="" tvg-logo="",FAP TV Parody
-http://192.168.1.203:8000/pid/78ba2a9d39b9c60169f5d7c918769b68e7dcc048/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Pissing" tvg-id="" tvg-logo="",FAP TV Pissing
-http://192.168.1.203:8000/pid/2c1ce4e55d7bc2cc632d29c2d39f2dd85db2ae2f/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Shemale" tvg-id="" tvg-logo="",FAP TV Shemale
-http://192.168.1.203:8000/pid/7f7f8a7aec171deeac204b2a3ace5e45c7662d31/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Teaching" tvg-id="" tvg-logo="",FAP TV Teaching
-http://192.168.1.203:8000/pid/d542f98e67b31e8a6224054e0aa5c0874ba0a1a3/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Teens" tvg-id="" tvg-logo="",FAP TV Teens
-http://192.168.1.203:8000/pid/1c00e22b5b5d5404372535d360bbd49398122199/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="FAP_TV_Trans" tvg-id="" tvg-logo="",FAP TV Trans
-http://192.168.1.203:8000/pid/2beb9b1fe4cf94c0029ea9b66ba80a288997f04b/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Fashion_TV" tvg-id="" tvg-logo="",Fashion TV
-http://192.168.1.203:8000/pid/48789083f6f1ca8d0ffbda35b6d83eae43f3b4c4/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Fashion_TV_HD" tvg-id="" tvg-logo="",Fashion TV HD
-http://192.168.1.203:8000/pid/59a84a8bf20258d04f5e862969ac133822b682c1/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Fine_Living" tvg-id="" tvg-logo="",Fine Living
-http://192.168.1.203:8000/pid/517f96206ebc221b728a6f0cd7c2256d4a274864/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Food_Network" tvg-id="" tvg-logo="",Food Network
-http://192.168.1.203:8000/pid/f34f35ab2446968b0f63f665f248b91140badd92/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Fox" tvg-id="" tvg-logo="",Fox
-http://192.168.1.203:8000/pid/fc4e3c0f5920b4dcf3f09bbd126a7dec04b8918d/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Fox_Life" tvg-id="" tvg-logo="",Fox Life
-http://192.168.1.203:8000/pid/49a09de30aa237ea0d4dbb1aba721bf775d1c516/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Fox_Life_HD" tvg-id="" tvg-logo="",Fox Life HD
-http://192.168.1.203:8000/pid/941b0dc46f5cd66178103cf8001b0c2f10b427ba/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="France_24" tvg-id="" tvg-logo="",France 24
-http://192.168.1.203:8000/pid/96ec2f4b48359c2e77afdcd21eec6ce55201210b/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Fоx_HD" tvg-id="" tvg-logo="",Fоx HD
-http://192.168.1.203:8000/pid/9150a1933171724282ec010b2ac1c81a98c5af2e/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="GakkuTV" tvg-id="" tvg-logo="",GakkuTV
-http://192.168.1.203:8000/pid/988a119cd1e80df721c6871bbb9697b053011ffb/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Galaxy_TV" tvg-id="" tvg-logo="",Galaxy TV
-http://192.168.1.203:8000/pid/d36947faeab7561fbb10fc0f8da4f416709e5a06/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Gamanoid_HD" tvg-id="" tvg-logo="",Gamanoid HD
-http://192.168.1.203:8000/pid/e8a014d6694b3e2e04273d0f16f910d663ad3df0/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Game_Show" tvg-id="" tvg-logo="",Game Show
-http://192.168.1.203:8000/pid/ebe0e576077cad45111f1a0e345128104fb705bf/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Ginger_HD" tvg-id="" tvg-logo="",Ginger HD
-http://192.168.1.203:8000/pid/e6fa1059f2a7dd9f77dae62b7172db57a2db3865/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Glazella_HD" tvg-id="" tvg-logo="",Glazella HD
-http://192.168.1.203:8000/pid/fe00cd1749305da828c1b4210c3155955c545ba0/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="GlobalStar_TV" tvg-id="" tvg-logo="",GlobalStar TV
-http://192.168.1.203:8000/pid/bf0799148613689ca02eefd3b75b90ce5618eea9/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Gulli_Girl" tvg-id="" tvg-logo="",Gulli Girl
-http://192.168.1.203:8000/pid/e724e06329edd384cbf306c9a84a0ebe6b284981/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="HD_Life" tvg-id="" tvg-logo="",HD Life
-http://192.168.1.203:8000/pid/7a36de3efdbbcb5c65e128ca34f4f767cfd5f804/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="HD_Media" tvg-id="" tvg-logo="",HD Media
-http://192.168.1.203:8000/pid/bc3b568e7dfa4124b056efc30095af43b2fb291a/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="HD_Media_3D" tvg-id="" tvg-logo="",HD Media 3D
-http://192.168.1.203:8000/pid/df24f0bb9840324d6e00f4502897983d7c3eb744/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="History_Channel" tvg-id="" tvg-logo="",History Channel
-http://192.168.1.203:8000/pid/dddf76851b4736b439a28e22158b0c0e1c0a992d/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="History_Channel_HD" tvg-id="" tvg-logo="",History Channel HD
-http://192.168.1.203:8000/pid/9d36907a8c7b46768f2d186645bceb1b0946975f/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="HiT_Music_Channel" tvg-id="" tvg-logo="",HiT Music Channel
-http://192.168.1.203:8000/pid/0267a696692b919a51246d432e88d9ad06acdf1d/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Hit_TV" tvg-id="" tvg-logo="",Hit TV
-http://192.168.1.203:8000/pid/7234c7fedfe7ea71915bb3357e81d254e64e39cf/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Hit_TV_(Казахстан)" tvg-id="" tvg-logo="",Hit TV (Казахстан)
-http://192.168.1.203:8000/pid/595671260527ee88761c7d06881559f63207d5fe/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Hustler_HD" tvg-id="" tvg-logo="",Hustler HD
-http://192.168.1.203:8000/pid/56343599cfe5e0863075fc019cff47861f02cc79/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Hustler_TV" tvg-id="" tvg-logo="",Hustler TV
-http://192.168.1.203:8000/pid/ef077313000b97babba35cc6cd7a7f1dd6013d16/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Ictimai_TV" tvg-id="" tvg-logo="",Ictimai TV
-http://192.168.1.203:8000/pid/c2ad32d136bcef2b2464da09735f03fc9b00d7c8/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="ICTV" tvg-id="" tvg-logo="",ICTV
-http://192.168.1.203:8000/pid/302ba40b577dcea9e498a3421a156f655b657fad/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="ID_Xtra" tvg-id="" tvg-logo="",ID Xtra
-http://192.168.1.203:8000/pid/d9ae81aab088374fe737b67b04f925e87ace5c76/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Idman_TV" tvg-id="" tvg-logo="",Idman TV
-http://192.168.1.203:8000/pid/59a93123fbcd8fac6d82d300e910fd1998f1f744/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Iland" tvg-id="" tvg-logo="",Iland
-http://192.168.1.203:8000/pid/bb3c7ea32891dfd52b0f6e642b8478751ef07f6d/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="InterAz" tvg-id="" tvg-logo="",InterAz
-http://192.168.1.203:8000/pid/ed11fec4667ef4398bb58136ca9f94ec3b8830c0/stream.mp4
-#EXTINF:-1 group-title="Религиозные" tvg-name="Islam_Channel" tvg-id="" tvg-logo="",Islam Channel
-http://192.168.1.203:8000/pid/09ec55ea6ed047c925be2ef4ede84106a0c9d259/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Jasmin_TV" tvg-id="" tvg-logo="",Jasmin TV
-http://192.168.1.203:8000/pid/4445ea01f36dc01c6f819fefbf16a9af25f4aac1/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="JimJam" tvg-id="" tvg-logo="",JimJam
-http://192.168.1.203:8000/pid/4d68f35fac750cd860053fa9f50ae7d0475f98a5/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Kazakh_TV" tvg-id="" tvg-logo="",Kazakh TV
-http://192.168.1.203:8000/pid/e804c29b2358f461d8278859f2aeedb27c8093b5/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Kazsport" tvg-id="" tvg-logo="",Kazsport
-http://192.168.1.203:8000/pid/ae1f4846d3714d27f8b074457f6f36ed1d5f12a1/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="KBS_World_HD" tvg-id="" tvg-logo="",KBS World HD
-http://192.168.1.203:8000/pid/7b1946a99d04ca1ab13295003707cd1e48649fb3/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="KroneHIT_TV_HD" tvg-id="" tvg-logo="",KroneHIT TV HD
-http://192.168.1.203:8000/pid/9bf11545c4e3c570d0f71e1c78caa04e6eb61a11/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Kvartal_TV" tvg-id="" tvg-logo="",Kvartal TV
-http://192.168.1.203:8000/pid/2eb78c60e4c28892ba5df1f0fd3f7336d45193b6/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Lale" tvg-id="" tvg-logo="",Lale
-http://192.168.1.203:8000/pid/1cc4d3c085153fb06101a260951bd4b3a30e7394/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Lider_TV" tvg-id="" tvg-logo="",Lider TV
-http://192.168.1.203:8000/pid/d71e0e7d7a211dcf064e660d046ac632f1c70b67/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Life78" tvg-id="" tvg-logo="",Life78
-http://192.168.1.203:8000/pid/e0a0cbe528031cf4d4e093000e81be407d91007e/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Life78_HD" tvg-id="" tvg-logo="",Life78 HD
-http://192.168.1.203:8000/pid/8543c07bee8e20e47b4e02f8b0b7e367d1ad238b/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="LifeNews" tvg-id="" tvg-logo="",LifeNews
-http://192.168.1.203:8000/pid/1cde385cb323e6a741181e1b76e678f5a1ec9813/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="LifeNews_HD" tvg-id="" tvg-logo="",LifeNews HD
-http://192.168.1.203:8000/pid/31a72a2d5ddc2402fd6aaef0ef5b6efdef34d9ca/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="LTV_World" tvg-id="" tvg-logo="",LTV World
-http://192.168.1.203:8000/pid/5bb8709d349780940b14f4c37465e6132a3b2b0c/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Luxe_TV_HD" tvg-id="" tvg-logo="",Luxe TV HD
-http://192.168.1.203:8000/pid/bf13ed5d2eaa629ab4b4dac4eaaa142db2b40c5b/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Luxury_World" tvg-id="" tvg-logo="",Luxury World
-http://192.168.1.203:8000/pid/c0ba6df196d88b2c9df5c71a759cb2060e69c008/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Lviv_TV" tvg-id="" tvg-logo="",Lviv TV
-http://192.168.1.203:8000/pid/088687153478355504bbfc6754fb942522cac4d4/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Maxxi-TV" tvg-id="" tvg-logo="",Maxxi-TV
-http://192.168.1.203:8000/pid/da5d3cfc151f33408a3015c18c1ce7d21e5e72ae/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="MCM_Top" tvg-id="" tvg-logo="",MCM Top
-http://192.168.1.203:8000/pid/3ca7f7638a81f1de7c1527d047ace3e10f2ef6bd/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Mezzo" tvg-id="" tvg-logo="",Mezzo
-http://192.168.1.203:8000/pid/156eb3f8f2463498212404286a1e4d2874aa3624/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Mezzo_Live_HD" tvg-id="" tvg-logo="",Mezzo Live HD
-http://192.168.1.203:8000/pid/976a8de1a397a7f54364ff556d53d3762318df01/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="MGM_HD" tvg-id="" tvg-logo="",MGM HD
-http://192.168.1.203:8000/pid/cdf01b8b5ecef3ef4a1f9bce184e0a07832d4bae/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Mi_Lady" tvg-id="" tvg-logo="",Mi Lady
-http://192.168.1.203:8000/pid/10998a3c9090a3a39c673e1b56b782093ae81d2f/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="MTV_Dance" tvg-id="" tvg-logo="",MTV Dance
-http://192.168.1.203:8000/pid/cb2fb76a0a64a76a59cdceae83a29f3d50164108/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="MTV_Hits" tvg-id="" tvg-logo="",MTV Hits
-http://192.168.1.203:8000/pid/bf789a9dc0bb146b90b6fa0cee98fede2bc55519/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="MTV_Live_HD" tvg-id="" tvg-logo="",MTV Live HD
-http://192.168.1.203:8000/pid/48d91ee03d52f6ca13cd1ea482e9a912cf207acb/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="MTV_Rocks" tvg-id="" tvg-logo="",MTV Rocks
-http://192.168.1.203:8000/pid/55dfcfff840fdcb9c41ee1c3bf2f89b4fd00ef03/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="MTV_Россия" tvg-id="" tvg-logo="",MTV Россия
-http://192.168.1.203:8000/pid/ee4fccafb8ca04533f7dcf7fc78a9da0a7267332/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="MTV_Россия_HD" tvg-id="" tvg-logo="",MTV Россия HD
-http://192.168.1.203:8000/pid/dbd6b1fb4ddc6316cf72a032c7590cc9d716d8c0/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Music_Box_RU" tvg-id="" tvg-logo="",Music Box RU
-http://192.168.1.203:8000/pid/c5aba94a516fd6bd48c569bf16a1c78f9a550998/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Music_Box_TV" tvg-id="" tvg-logo="",Music Box TV
-http://192.168.1.203:8000/pid/7ba9d9fd9665544e5e08f8312ac0b63541926d27/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Music_Box_UA" tvg-id="" tvg-logo="",Music Box UA
-http://192.168.1.203:8000/pid/ee36ddb11f7f2f5d0b81d2f6d72724472b501981/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Muzzone" tvg-id="" tvg-logo="",Muzzone
-http://192.168.1.203:8000/pid/c55709d83c9878eeb23aa62338ad4964cfb76039/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="My_Zen_TV_HD" tvg-id="" tvg-logo="",My Zen TV HD
-http://192.168.1.203:8000/pid/4315075fb89b31e1c3dccc532dc898255d4d97b2/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="N4_TV" tvg-id="" tvg-logo="",N4 TV
-http://192.168.1.203:8000/pid/8ee95a7c67d609479f32b0cd872216cd3c6e2b0a/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Nat_Geo_Wild" tvg-id="" tvg-logo="",Nat Geo Wild
-http://192.168.1.203:8000/pid/6402082dad2ceda5641b648f94b9043add259483/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Nat_Geo_Wild_HD" tvg-id="" tvg-logo="",Nat Geo Wild HD
-http://192.168.1.203:8000/pid/af4f67a8988844c4065f8a8633c2062c26b6767e/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="National_Geographic" tvg-id="" tvg-logo="",National Geographic
-http://192.168.1.203:8000/pid/11b5046a196c2c5dc47b271349d4f266ee80dd92/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="National_Geographic_HD" tvg-id="" tvg-logo="",National Geographic HD
-http://192.168.1.203:8000/pid/9f7908b8ab10ad106d7abef5a4fea265dcef497e/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="News_One" tvg-id="" tvg-logo="",News One
-http://192.168.1.203:8000/pid/bad06e39c481380d53fb2d749b20d0f2541a235a/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="NewsNetwork" tvg-id="" tvg-logo="",NewsNetwork
-http://192.168.1.203:8000/pid/56e90905775397087a26ac2747aed7282405bfc4/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="NHK_World_TV" tvg-id="" tvg-logo="",NHK World TV
-http://192.168.1.203:8000/pid/c0cea80d876ae706450d49badaf098f51e92dde9/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Nick_Jr." tvg-id="" tvg-logo="",Nick Jr.
-http://192.168.1.203:8000/pid/69ad26036064149048d8f771bef3461b0ad3796f/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Nickelodeon" tvg-id="" tvg-logo="",Nickelodeon
-http://192.168.1.203:8000/pid/23e3817cc2fe728b04bf750861718da4a1fbc603/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Nickelodeon_HD" tvg-id="" tvg-logo="",Nickelodeon HD
-http://192.168.1.203:8000/pid/c65f3d0175b2968e7ea30d429505c8bacae1d36e/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="NRJ_Hits_HD" tvg-id="" tvg-logo="",NRJ Hits HD
-http://192.168.1.203:8000/pid/92c3ff4da9b50d2daa62090bd4bc8bfcd92d418c/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Nuart_TV" tvg-id="" tvg-logo="",Nuart TV
-http://192.168.1.203:8000/pid/e27fd61e8ce7f5228159469160e397d80a9ce8ea/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="O-la-la" tvg-id="" tvg-logo="",O-la-la
-http://192.168.1.203:8000/pid/299b0cc7b19a4a652510cafb0c44c7f882d52ac4/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="O-TV" tvg-id="" tvg-logo="",O-TV
-http://192.168.1.203:8000/pid/3177e4a3f88704f3f595ffed6ca0dbe600f1f7fa/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Ocean-TV" tvg-id="" tvg-logo="",Ocean-TV
-http://192.168.1.203:8000/pid/54b53ebf2c1327c094b615aa67c4f36f38981919/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ON_TV" tvg-id="" tvg-logo="",ON TV
-http://192.168.1.203:8000/pid/713b211a054e9d997c08ad2ef380cf33942cd7c3/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Outdoor_Channel" tvg-id="" tvg-logo="",Outdoor Channel
-http://192.168.1.203:8000/pid/bc217a7f36f2f308b45f16bc33118ef66d2abd36/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Outdoor_Channel_HD" tvg-id="" tvg-logo="",Outdoor Channel HD
-http://192.168.1.203:8000/pid/3501fdf1267de531debbc3f2225604d55beeb448/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Paramount_Channel" tvg-id="" tvg-logo="",Paramount Channel
-http://192.168.1.203:8000/pid/0d560a21f7e07a3a58d66593210a45a1bfdcc320/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Paramount_Comedy" tvg-id="" tvg-logo="",Paramount Comedy
-http://192.168.1.203:8000/pid/41f1fd024b43d387d895a2ef22abac9024cd4fcb/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Paramount_Comedy_HD" tvg-id="" tvg-logo="",Paramount Comedy HD
-http://192.168.1.203:8000/pid/26f2040d3ed9743ff13f4e1067de88d473a6a029/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Phoenix_CNE" tvg-id="" tvg-logo="",Phoenix CNE
-http://192.168.1.203:8000/pid/a1bcca98e2b793942935165437175a4f237a32c9/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Phoenix_Marie_TV" tvg-id="" tvg-logo="",Phoenix Marie TV
-http://192.168.1.203:8000/pid/db58626b94fff0d9d290c0ecde2ed80a6df40ac3/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Pink_O_TV" tvg-id="" tvg-logo="",Pink O TV
-http://192.168.1.203:8000/pid/f19c05f46c7061234130650529e7ca8743e9b251/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Playboy_TV" tvg-id="" tvg-logo="",Playboy TV
-http://192.168.1.203:8000/pid/d8a8344b7aa6da9935b5ae3d79e070741d5d7632/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Polonia_1" tvg-id="" tvg-logo="",Polonia 1
-http://192.168.1.203:8000/pid/516bf20641a9b83c9e58d53fd1fa7f09c86937ed/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Power_Turk_HD" tvg-id="" tvg-logo="",Power Turk HD
-http://192.168.1.203:8000/pid/a27900baf527e0a039e7e0875800ec378d379a33/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Pro_Все" tvg-id="" tvg-logo="",Pro Все
-http://192.168.1.203:8000/pid/f3bcf2bcddea2b4e139876e8e519a6deaa66684a/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="QTV" tvg-id="" tvg-logo="",QTV
-http://192.168.1.203:8000/pid/65433a255b2f6ab34a4a1b8adef233cf8f1d1bf7/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="R1" tvg-id="" tvg-logo="",R1
-http://192.168.1.203:8000/pid/1cde4c84c08ac1eb5fd44daa8f1befbfbb533043/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Rai_1" tvg-id="" tvg-logo="",Rai 1
-http://192.168.1.203:8000/pid/22f450fa93232fa4d7a9cbbe2dc5adc8c9aebaf3/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Rai_2" tvg-id="" tvg-logo="",Rai 2
-http://192.168.1.203:8000/pid/5226d6a525eb3133974895ac4fe663862184a6e5/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Rai_3" tvg-id="" tvg-logo="",Rai 3
-http://192.168.1.203:8000/pid/64d8bd22881d92062b39960b8c4349aa8322f056/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Real_Madrid_TV" tvg-id="" tvg-logo="",Real Madrid TV
-http://192.168.1.203:8000/pid/677b613d289b71812cbee35c6948a27161a50b7f/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Redlight_HD" tvg-id="" tvg-logo="",Redlight HD
-http://192.168.1.203:8000/pid/fdf07b220b97b35a7ac78f31484ad985d8d7f607/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Renome_(Одесса)" tvg-id="" tvg-logo="",Renome (Одесса)
-http://192.168.1.203:8000/pid/2fd6083d60e31ff5f2e09e7e3912882d5de536b0/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Retro_Music_TV" tvg-id="" tvg-logo="",Retro Music TV
-http://192.168.1.203:8000/pid/3834eb091456fe162433cf910e4a17885c414a88/stream.mp4
-#EXTINF:-1 group-title="Религиозные" tvg-name="Revelation_TV" tvg-id="" tvg-logo="",Revelation TV
-http://192.168.1.203:8000/pid/9cf69643c8842ec791a6103863c2db2129590a6d/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="RMC_TV" tvg-id="" tvg-logo="",RMC TV
-http://192.168.1.203:8000/pid/0d0b752efdfa586aa0f9a5059f5092068202c366/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="RTG_HD" tvg-id="" tvg-logo="",RTG HD
-http://192.168.1.203:8000/pid/c38f85c931d91deb5268a746ec910324e2b69e28/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="RTG_TV" tvg-id="" tvg-logo="",RTG TV
-http://192.168.1.203:8000/pid/b58a65e3fb5b857fd035628b68846c6991b79335/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="RTVi" tvg-id="" tvg-logo="",RTVi
-http://192.168.1.203:8000/pid/cdcb7bf6331d314fc68852f08855f83ea1e949b9/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="RU_TV" tvg-id="" tvg-logo="",RU TV
-http://192.168.1.203:8000/pid/3010abfcfbee9743bdfc744a85362e0b8c9bfc29/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Rusong_TV" tvg-id="" tvg-logo="",Rusong TV
-http://192.168.1.203:8000/pid/3912e799a1a96b2c05e076825eba3b575c842a6c/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Russia_Today" tvg-id="" tvg-logo="",Russia Today
-http://192.168.1.203:8000/pid/6ec673924799f26891f5bc22a9bbb8dfe82b8d1d/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Russia_Today_Arabic" tvg-id="" tvg-logo="",Russia Today Arabic
-http://192.168.1.203:8000/pid/d150c69c8c84f656be1525fdf9277cc5e5e67e01/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Russia_Today_Doc_HD" tvg-id="" tvg-logo="",Russia Today Doc HD
-http://192.168.1.203:8000/pid/79022d1b3178605bf60f4f08da952cedb1c2b858/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Russia_Today_Doc." tvg-id="" tvg-logo="",Russia Today Doc.
-http://192.168.1.203:8000/pid/e8d95ee575a620742385968206175a235f1f4dd4/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Russia_Today_Espanol" tvg-id="" tvg-logo="",Russia Today Espanol
-http://192.168.1.203:8000/pid/88fd54d4a339b585051bca1f789196ce93d48670/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Russia_Today_HD" tvg-id="" tvg-logo="",Russia Today HD
-http://192.168.1.203:8000/pid/21e69970be5ea3bc1c1ed529065584e4dc78fb1e/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Russian_Music_Box_HD" tvg-id="" tvg-logo="",Russian Music Box HD
-http://192.168.1.203:8000/pid/a30b7857030b0b28576bb48eca7ef84b5d2d3342/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Satisfaction_HD" tvg-id="" tvg-logo="",Satisfaction HD
-http://192.168.1.203:8000/pid/44dfa65384af826476b0d8e7c8108874f951b4c8/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="SCT" tvg-id="" tvg-logo="",SCT
-http://192.168.1.203:8000/pid/08084d6f1ffe2046fd324cf2db418ec5380beb13/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="SET" tvg-id="" tvg-logo="",SET
-http://192.168.1.203:8000/pid/5de5c14e5a8f5718aa73b2d69a54a8f721639bea/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="SET_HD" tvg-id="" tvg-logo="",SET HD
-http://192.168.1.203:8000/pid/c77d18b4772b10cc7ff392ce65e4a9f274b81b64/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Setanta_Sports_+_HD" tvg-id="" tvg-logo="",Setanta Sports + HD
-http://192.168.1.203:8000/pid/887c32a4712d6ce3c6104562e2ee3d9afb1592ac/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Sextosenso" tvg-id="" tvg-logo="",Sextosenso
-http://192.168.1.203:8000/pid/9cf66cd4e916f64c0b88b4221decd83eee813b0b/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Shant_TV" tvg-id="" tvg-logo="",Shant TV
-http://192.168.1.203:8000/pid/277a1e3cc5804a16e136a45bfe1a343229aff136/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Shop24" tvg-id="" tvg-logo="",Shop24
-http://192.168.1.203:8000/pid/a8a17abba2a6a682061b1a45ab45b3ca8442cd63/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Shopping_Live" tvg-id="" tvg-logo="",Shopping Live
-http://192.168.1.203:8000/pid/f1a85b40f358bc8bdd226d4b5937f83c6bdd9c30/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Shopping_TV" tvg-id="" tvg-logo="",Shopping TV
-http://192.168.1.203:8000/pid/9370ebd73026834a372049e2becb97d95e839d17/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Silence_TV_HD" tvg-id="" tvg-logo="",Silence TV HD
-http://192.168.1.203:8000/pid/aa7bae643a5efaca9bc18f7ce9a7944c26b4fbad/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Sky_Sports_1" tvg-id="" tvg-logo="",Sky Sports 1
-http://192.168.1.203:8000/pid/aa7c6b5f1fd8fbae6c4b1e4e2df6659e7179aca1/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Sky_Sports_2" tvg-id="" tvg-logo="",Sky Sports 2
-http://192.168.1.203:8000/pid/6b2fb9a9e67aaabd63004059147dfdc46e882aba/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Sky_Sports_3" tvg-id="" tvg-logo="",Sky Sports 3
-http://192.168.1.203:8000/pid/e6f513db2736a413d021ebc1e16c815897120129/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Sky_Sports_4" tvg-id="" tvg-logo="",Sky Sports 4
-http://192.168.1.203:8000/pid/969a42388e101e6c6d9574a311e4b387a6ff1413/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Sky_Sports_5" tvg-id="" tvg-logo="",Sky Sports 5
-http://192.168.1.203:8000/pid/aec1c56cdc77ce2686db105e5559e10c7fad21f4/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Sky_Sports_F1" tvg-id="" tvg-logo="",Sky Sports F1
-http://192.168.1.203:8000/pid/969dbafa76bbd0ca37d73629f392c83fcf9cc295/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Sony_Sci-Fi" tvg-id="" tvg-logo="",Sony Sci-Fi
-http://192.168.1.203:8000/pid/c7687d2a023d29d776f33e1219af2beb50ad8923/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Sony_Turbo" tvg-id="" tvg-logo="",Sony Turbo
-http://192.168.1.203:8000/pid/0dffef531d3bd40b56de7102ed5debca77eebe11/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="STV" tvg-id="" tvg-logo="",STV
-http://192.168.1.203:8000/pid/65ca5d778e6452287e84dc8d2c13fb7b3d3c9f72/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Super_Tennis_HD" tvg-id="" tvg-logo="",Super Tennis HD
-http://192.168.1.203:8000/pid/111d650225e7b7fb8f0f1e968c6aa7f8b86684bd/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Super_TV" tvg-id="" tvg-logo="",Super TV
-http://192.168.1.203:8000/pid/8d137c3166347ddbb5d19e169cdd997b76ea2af9/stream.mp4
-#EXTINF:-1 group-title="Религиозные" tvg-name="TBN_Europe" tvg-id="" tvg-logo="",TBN Europe
-http://192.168.1.203:8000/pid/94afe032075dc4830a0ddccfc82f8ddc1d6a8ed8/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Tele_Vsesvit" tvg-id="" tvg-logo="",Tele Vsesvit
-http://192.168.1.203:8000/pid/fc692a879a0cd8b04f27612e0eec221fc6c2c5d7/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="TelePace_HD" tvg-id="" tvg-logo="",TelePace HD
-http://192.168.1.203:8000/pid/3b39e6c21b6b90b23f52c46fdfddd57a18408129/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Telesur" tvg-id="" tvg-logo="",Telesur
-http://192.168.1.203:8000/pid/cb74477687375c8a034078ce4699da0aef7df9ff/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Teletravel_HD" tvg-id="" tvg-logo="",Teletravel HD
-http://192.168.1.203:8000/pid/fb80d6ebc7e08442be0e637b5f00825a3a1bb31e/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="TGirls_TV" tvg-id="" tvg-logo="",TGirls TV
-http://192.168.1.203:8000/pid/2cd74c95f7a89832bb6413e06e5dd116b446e3b2/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="TiJi" tvg-id="" tvg-logo="",TiJi
-http://192.168.1.203:8000/pid/4b64f502d0c1538ee84dd8606a21fa9984ad1a8d/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="TLC" tvg-id="" tvg-logo="",TLC
-http://192.168.1.203:8000/pid/1a69be542bc7bee79f4c3b0cb530413f4fba9ce0/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="TLC_HD" tvg-id="" tvg-logo="",TLC HD
-http://192.168.1.203:8000/pid/af7034bee3718206b61d9599da2d6c50d7d1268b/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="TMB_RU" tvg-id="" tvg-logo="",TMB RU
-http://192.168.1.203:8000/pid/da8bb2d8e01bb82c089c7273383e9d194bd1eed1/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Tonis" tvg-id="" tvg-logo="",Tonis
-http://192.168.1.203:8000/pid/21acb3ee1ad8b0da6e1caef77da3b14484cf1aee/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Tonis_HD" tvg-id="" tvg-logo="",Tonis HD
-http://192.168.1.203:8000/pid/90a67bcf064a25a06fc6f68e08e347c5252f7886/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Top_Shop" tvg-id="" tvg-logo="",Top Shop
-http://192.168.1.203:8000/pid/ac4e7cb52268e9660fce1f3ef6db3fb067655f10/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Trace_Urban_HD" tvg-id="" tvg-logo="",Trace Urban HD
-http://192.168.1.203:8000/pid/1235476ad324dd5b5e56bc41fa1972094cb725e1/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Travel_+_adventure" tvg-id="" tvg-logo="",Travel + adventure
-http://192.168.1.203:8000/pid/a54d395a073dee41663dcc21fe9ad9605bcdf26d/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Travel_+_adventure_HD" tvg-id="" tvg-logo="",Travel + adventure HD
-http://192.168.1.203:8000/pid/15ce2f1ba5cacf6f40a965a7196e8f8ffbdb0aca/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Travel_Channel" tvg-id="" tvg-logo="",Travel Channel
-http://192.168.1.203:8000/pid/4bdd571ae1dd0ae9dcd97b40376773d7be9ca106/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Travel_Channel_HD" tvg-id="" tvg-logo="",Travel Channel HD
-http://192.168.1.203:8000/pid/ad99f6821aa9a30cfbc0534b2a5d709aed1f63a7/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="TRT_Haber_HD" tvg-id="" tvg-logo="",TRT Haber HD
-http://192.168.1.203:8000/pid/2b967f647d2ecc9d56d44c7ee52cb364399fa240/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="TRT_Muzik" tvg-id="" tvg-logo="",TRT Muzik
-http://192.168.1.203:8000/pid/e84e9b52ba9e65da9b5f597c02234708d2adda72/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="TSN_1" tvg-id="" tvg-logo="",TSN 1
-http://192.168.1.203:8000/pid/4e5abe370e1bfa45a5d8dfb510431b662ab90225/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="TV_1000" tvg-id="" tvg-logo="",TV 1000
-http://192.168.1.203:8000/pid/12affdb314f9300ac33e0f0653573cac2bc70436/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="TV_1000_Action_East" tvg-id="" tvg-logo="",TV 1000 Action East
-http://192.168.1.203:8000/pid/f27e64258497ce9115b16700279a64409f492c60/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="TV_1000_Русское_кино" tvg-id="" tvg-logo="",TV 1000 Русское кино
-http://192.168.1.203:8000/pid/95bf518bf00b487b0aab4e91d4cb456663f1a1a5/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="TV_Mall" tvg-id="" tvg-logo="",TV Mall
-http://192.168.1.203:8000/pid/22c832900a9c7330330bd68f7f7232fd2730dd64/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="TV_Sale" tvg-id="" tvg-logo="",TV Sale
-http://192.168.1.203:8000/pid/c1633a927e4c156fb604294c3f02a14fa8de1be2/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="TV_XXI_(TV21)" tvg-id="" tvg-logo="",TV XXI (TV21)
-http://192.168.1.203:8000/pid/fa3fcdc183ccbecf32aa0e90e6214d70f11df747/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="TV_Губерния_(Воронеж)" tvg-id="" tvg-logo="",TV Губерния (Воронеж)
-http://192.168.1.203:8000/pid/d3760de24c9cd72ad22c9222a3738b2ebf7b2fec/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="TV-5" tvg-id="" tvg-logo="",TV-5
-http://192.168.1.203:8000/pid/b4610113805ece0e6ce9ea5861ad15a787106774/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="TV1000_Comedy" tvg-id="" tvg-logo="",TV1000 Comedy
-http://192.168.1.203:8000/pid/08e7a91946db693fabfe2dcd397f5fc108f0c6f9/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="TV1000_Comedy_HD" tvg-id="" tvg-logo="",TV1000 Comedy HD
-http://192.168.1.203:8000/pid/facf0596c7e49bd159b74749d959f061b8593bb7/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="TV1000_Megahit_HD" tvg-id="" tvg-logo="",TV1000 Megahit HD
-http://192.168.1.203:8000/pid/7ac262079535694321c6d7d7969d8b1b8e6f5f17/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="TV1000_Premium_HD" tvg-id="" tvg-logo="",TV1000 Premium HD
-http://192.168.1.203:8000/pid/b2ab3436030fab5d8adbab9227f1ab84d7376fcd/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="TV3_Catalunya" tvg-id="" tvg-logo="",TV3 Catalunya
-http://192.168.1.203:8000/pid/daa7cc8d52fc8620d49453f2b4afe267a0ff7fb6/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="TVC_21" tvg-id="" tvg-logo="",TVC 21
-http://192.168.1.203:8000/pid/b466c1b8324d8b591e47935df062cb6ba92ea09e/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="USArmenia_TV_HD" tvg-id="" tvg-logo="",USArmenia TV HD
-http://192.168.1.203:8000/pid/9437686ef7c60c718910a595d83c0cfa49cc87cb/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="VH1" tvg-id="" tvg-logo="",VH1
-http://192.168.1.203:8000/pid/9e2f5d383d423ebef4be9569ddfba67a9e23f8c0/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="VH1_Classic" tvg-id="" tvg-logo="",VH1 Classic
-http://192.168.1.203:8000/pid/1a78dd5194cd25ddbb2cfa55b97719b1bcf1a16a/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Viasat_Explore" tvg-id="" tvg-logo="",Viasat Explore
-http://192.168.1.203:8000/pid/08e6f389c1c18634c584469d85d0d47ec985f734/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Viasat_Fotboll" tvg-id="" tvg-logo="",Viasat Fotboll
-http://192.168.1.203:8000/pid/f6f1723257c7742a66b5b8e06ba812b2ace3bc4c/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Viasat_Golf" tvg-id="" tvg-logo="",Viasat Golf
-http://192.168.1.203:8000/pid/01b5427ae28567f6e002c204832e69378dbd3145/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Viasat_History" tvg-id="" tvg-logo="",Viasat History
-http://192.168.1.203:8000/pid/09c45562a1e8b3ed5f6d2adbfced6cd9e60e9c73/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Viasat_History_HD_(Европа)" tvg-id="" tvg-logo="",Viasat History HD (Европа)
-http://192.168.1.203:8000/pid/3562939c69d84b9b1f8683bd63d359f00dedcc7e/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Viasat_Hockey" tvg-id="" tvg-logo="",Viasat Hockey
-http://192.168.1.203:8000/pid/7a73b3500cedc9f986ba0ac26776a2be236f71e4/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Viasat_Motor" tvg-id="" tvg-logo="",Viasat Motor
-http://192.168.1.203:8000/pid/a818e07057513c32bc85039e146932c13a887767/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Viasat_Nature_East" tvg-id="" tvg-logo="",Viasat Nature East
-http://192.168.1.203:8000/pid/d9fe37515d1a89efdf1c8eeb623bc50a5cd20e6f/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Viasat_Nature_HD_(Европа)" tvg-id="" tvg-logo="",Viasat Nature HD (Европа)
-http://192.168.1.203:8000/pid/0593dfee7e522656af47362457f7a5a7a766ade2/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Viasat_Nature-History_HD" tvg-id="" tvg-logo="",Viasat Nature-History HD
-http://192.168.1.203:8000/pid/61e4a6700e43804b00b33e23b99b0bfb1b82a30e/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Viasat_Sport" tvg-id="" tvg-logo="",Viasat Sport
-http://192.168.1.203:8000/pid/6f227a2a17df5db3b6f1852b6847f2a99ea67e62/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Viasat_Sport_Baltic" tvg-id="" tvg-logo="",Viasat Sport Baltic
-http://192.168.1.203:8000/pid/2b6af7f3c75211f6237e88b4cd821b6d8105a7f9/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Viasat_Sport_HD" tvg-id="" tvg-logo="",Viasat Sport HD
-http://192.168.1.203:8000/pid/88b8be1e0b6029fec43b1d53dc6a05c0e89f61f6/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Vintage_TV_UK" tvg-id="" tvg-logo="",Vintage TV UK
-http://192.168.1.203:8000/pid/ed9c32c942d7f46397bcac0800941293873dc231/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Virgin_Radio_TV" tvg-id="" tvg-logo="",Virgin Radio TV
-http://192.168.1.203:8000/pid/cadc8e3fbb9014fdf2a32ab940c478f0fccbad17/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Visit-X_HD" tvg-id="" tvg-logo="",Visit-X HD
-http://192.168.1.203:8000/pid/3cc5c4c7a503e549fc56821be39354d9b741be2c/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="World_Fashion" tvg-id="" tvg-logo="",World Fashion
-http://192.168.1.203:8000/pid/459347a25ce063d7975ebcd0c76596dcca1ba918/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="World_Fashion_HD" tvg-id="" tvg-logo="",World Fashion HD
-http://192.168.1.203:8000/pid/7009c85a4689564021ba71bcbe3ed5f355e80672/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="XSport" tvg-id="" tvg-logo="",XSport
-http://192.168.1.203:8000/pid/25a7871050c5a6940579cd94df8543f1c8825a24/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="ZIK_(Украина)" tvg-id="" tvg-logo="",ZIK (Украина)
-http://192.168.1.203:8000/pid/b7bfdfa174655c58945352cbade40270289f5719/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Zoom" tvg-id="" tvg-logo="",Zoom
-http://192.168.1.203:8000/pid/61d8222228f7e845f726243bd74e903a433c44fe/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Абаза_ТВ" tvg-id="" tvg-logo="",Абаза ТВ
-http://192.168.1.203:8000/pid/cd54ce19a9e81b9dc4accc8851d5551934872890/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Авто_24" tvg-id="" tvg-logo="",Авто 24
-http://192.168.1.203:8000/pid/5de2c91f8bafd242de85457c95961e1a0c15e20e/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Авто_плюс" tvg-id="" tvg-logo="",Авто плюс
-http://192.168.1.203:8000/pid/e605fa521fcc6346ad1db92b28a992822e627bb1/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Алматы" tvg-id="" tvg-logo="",Алматы
-http://192.168.1.203:8000/pid/b3820b212cde0a0d2eaab5e90243249d012fa1cd/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Архыз24" tvg-id="" tvg-logo="",Архыз24
-http://192.168.1.203:8000/pid/18b46d856abf8366b2ab6ac9391c32231d871773/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Асыл_Арна" tvg-id="" tvg-logo="",Асыл Арна
-http://192.168.1.203:8000/pid/f61cfdf136f29733a68348f220039dc3a2f33f3b/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Беларусь_24" tvg-id="" tvg-logo="",Беларусь 24
-http://192.168.1.203:8000/pid/d4302227bb9dae608ad5c9cb25768d204a3eca9f/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Белсат_ТВ" tvg-id="" tvg-logo="",Белсат ТВ
-http://192.168.1.203:8000/pid/48ee7802ff5c89daa4139bcc927bba66e18bcc73/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Бигуди" tvg-id="" tvg-logo="",Бигуди
-http://192.168.1.203:8000/pid/a0cf9b82132e709b82a92ec5cf021ae9f6a058d3/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Бобер" tvg-id="" tvg-logo="",Бобер
-http://192.168.1.203:8000/pid/e028f0cda3f8a8ce5fa91fbe279d9543d9f14a0b/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Бокс_ТВ" tvg-id="" tvg-logo="",Бокс ТВ
-http://192.168.1.203:8000/pid/fe1058acc22d6fec88836bb86bd57f7b1645af90/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Брянская_губерния" tvg-id="" tvg-logo="",Брянская губерния
-http://192.168.1.203:8000/pid/ffc168321041462dc0ca27e59d0e7127a03cd3e2/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="БСТ" tvg-id="" tvg-logo="",БСТ
-http://192.168.1.203:8000/pid/cc40a1f90de0e3e9ff3dbf187f2acb6facf1f994/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="В_гостях_у_сказки" tvg-id="" tvg-logo="",В гостях у сказки
-http://192.168.1.203:8000/pid/ceca7a8dfbd97d65dee4b131dc926c3e5ab4fb22/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Винтаж_ТВ" tvg-id="" tvg-logo="",Винтаж ТВ
-http://192.168.1.203:8000/pid/4f22fd4766f7e594407bbe03b8997967c9833f2b/stream.mp4
-#EXTINF:-1 group-title="Религиозные" tvg-name="Возрождение_ТВ" tvg-id="" tvg-logo="",Возрождение ТВ
-http://192.168.1.203:8000/pid/dccb99c85c40900ed226eaf9547ef7d8723a72bc/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Вопросы_и_ответы" tvg-id="" tvg-logo="",Вопросы и ответы
-http://192.168.1.203:8000/pid/6678eeb7a777887aa75bb47d2ea5faf1ad38e9f0/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Время" tvg-id="" tvg-logo="",Время
-http://192.168.1.203:8000/pid/d64582b66b6ed293e03d212c83a91f5694cde51c/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ВТВ-Плюс" tvg-id="" tvg-logo="",ВТВ-Плюс
-http://192.168.1.203:8000/pid/20441cd95127c434185bb52cc676eab7003a17a1/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Галичина" tvg-id="" tvg-logo="",Галичина
-http://192.168.1.203:8000/pid/650ab6549408989ef0d9c5517014057ecd62dabd/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Глазами_туриста_HD" tvg-id="" tvg-logo="",Глазами туриста HD
-http://192.168.1.203:8000/pid/0f0b3ebb2d40925b06a77111fbe21d6a6af5965c/stream.mp4
-#EXTINF:-1 group-title="Религиозные" tvg-name="Глас" tvg-id="" tvg-logo="",Глас
-http://192.168.1.203:8000/pid/c7141b8c6e1fe47828205ef7b9c4391724ee00df/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Горизонт" tvg-id="" tvg-logo="",Горизонт
-http://192.168.1.203:8000/pid/fc5835781453e402dff17c774a27e657391bd14c/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Горизонт_ТВ" tvg-id="" tvg-logo="",Горизонт ТВ
-http://192.168.1.203:8000/pid/bea5addb2cd48e5e8663863e2696262fa205667f/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Горящий_камин_HD" tvg-id="" tvg-logo="",Горящий камин HD
-http://192.168.1.203:8000/pid/15c6969a47fc68664b12f9122e3e26bda533a95a/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Дача" tvg-id="" tvg-logo="",Дача
-http://192.168.1.203:8000/pid/8834b1adc862edf4fd97a01dff5135fc8ab3194f/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Детский" tvg-id="" tvg-logo="",Детский
-http://192.168.1.203:8000/pid/2231a90612e9c0d0e9ad76f2a279e421eecd7a1e/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Детский_мир" tvg-id="" tvg-logo="",Детский мир
-http://192.168.1.203:8000/pid/81046491d65417275b7be2d4e17c287bd5a20879/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Днепропетровский_Государственный" tvg-id="" tvg-logo="",Днепропетровский Государственный
-http://192.168.1.203:8000/pid/b3dcbe2c605b271497ce62a04f82bb05f699b1ae/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Дождь" tvg-id="" tvg-logo="",Дождь
-http://192.168.1.203:8000/pid/23e66459572f84b3f34929a1b128b1a97005f7e2/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Дождь_HD" tvg-id="" tvg-logo="",Дождь HD
-http://192.168.1.203:8000/pid/4e5760823979a8548901c5dad214702be031e13d/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Дом_кино" tvg-id="" tvg-logo="",Дом кино
-http://192.168.1.203:8000/pid/1bce463352ee8e2ef3f3394d48776846ef0ad999/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Дом_кино_Премиум_HD" tvg-id="" tvg-logo="",Дом кино Премиум HD
-http://192.168.1.203:8000/pid/c35a592857ef31dfbc146ea79b36c8f92c24b334/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Домашние_животные" tvg-id="" tvg-logo="",Домашние животные
-http://192.168.1.203:8000/pid/ec5235d1f6231755a655c42ee8f934478bbbc8d4/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Домашний" tvg-id="" tvg-logo="",Домашний
-http://192.168.1.203:8000/pid/c7b1ac38d69d04c821839df2590398620c85a2c6/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Дон_24" tvg-id="" tvg-logo="",Дон 24
-http://192.168.1.203:8000/pid/e45990db6cb9b7e7dfbc63645b35a2cface954c4/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Донбас" tvg-id="" tvg-logo="",Донбас
-http://192.168.1.203:8000/pid/4b37eb1b9f1713e343c9aedb230133af17d8d054/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Драйв_ТВ" tvg-id="" tvg-logo="",Драйв ТВ
-http://192.168.1.203:8000/pid/ca3177c98c52607b5d32677f54e33f1ed8d37a91/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Еврокино" tvg-id="" tvg-logo="",Еврокино
-http://192.168.1.203:8000/pid/1f8afda3c6a764f5ef34c6ff75ebcac178b4f76b/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Евроновости" tvg-id="" tvg-logo="",Евроновости
-http://192.168.1.203:8000/pid/959d2a25894dff5d06b4fa4ada5bb4eab45e7953/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Еда_HD" tvg-id="" tvg-logo="",Еда HD
-http://192.168.1.203:8000/pid/9392c14ff7a206f984e4a3347bfd5eb880108866/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Еда_ТВ" tvg-id="" tvg-logo="",Еда ТВ
-http://192.168.1.203:8000/pid/e119b9856072a4a6170e5b8735ed4378bcf8d8ae/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Ескулап" tvg-id="" tvg-logo="",Ескулап
-http://192.168.1.203:8000/pid/30a7bba1e5dd6acd94201818870b44e406181073/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Еспресо_ТВ" tvg-id="" tvg-logo="",Еспресо ТВ
-http://192.168.1.203:8000/pid/3fb66d25c4d649b37c4718bcbbfa0fd221442577/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Жетысу" tvg-id="" tvg-logo="",Жетысу
-http://192.168.1.203:8000/pid/f41012b6c969bf4393abe373be18b5b994b53863/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Живая_Планета" tvg-id="" tvg-logo="",Живая Планета
-http://192.168.1.203:8000/pid/1a3f4505ee8d90005a29d68ab5c248a53bddf1e2/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Живая_природа_HD" tvg-id="" tvg-logo="",Живая природа HD
-http://192.168.1.203:8000/pid/87f1aad7bcbdf6742772cdae299b17c036cd6bfb/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Живи" tvg-id="" tvg-logo="",Живи
-http://192.168.1.203:8000/pid/6fa934a9e2f9147fe44d5928ac7dab8cc1b062ab/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Загородная_жизнь" tvg-id="" tvg-logo="",Загородная жизнь
-http://192.168.1.203:8000/pid/a88cd9a7346913e64745f8765d42fe8c23ca8d2c/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Звезда" tvg-id="" tvg-logo="",Звезда
-http://192.168.1.203:8000/pid/e07d2622ef786938850545e8c086d91c890eaaac/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Звезда_(+2)" tvg-id="" tvg-logo="",Звезда (+2)
-http://192.168.1.203:8000/pid/f842164097381d75bcc21bb27b4be7c609597a13/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Звезда_(16:9)" tvg-id="" tvg-logo="",Звезда (16:9)
-http://192.168.1.203:8000/pid/dadd0869c5361ee82fe5edc2dc8324468496bc4d/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Здоровое_ТВ" tvg-id="" tvg-logo="",Здоровое ТВ
-http://192.168.1.203:8000/pid/1b9f4d5c023d8033497b39860e3f8a7567fad713/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Зоопарк" tvg-id="" tvg-logo="",Зоопарк
-http://192.168.1.203:8000/pid/68d5199417d4b596d282d77093f5c6a2c4495c67/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Иллюзион+" tvg-id="" tvg-logo="",Иллюзион+
-http://192.168.1.203:8000/pid/7d3c3e1c6638964589f72ef38acee2d344e53ff6/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Индиго" tvg-id="" tvg-logo="",Индиго
-http://192.168.1.203:8000/pid/2a83a610e7c242c7827bcf1838d69289ef687d6f/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Индийское_кино" tvg-id="" tvg-logo="",Индийское кино
-http://192.168.1.203:8000/pid/e727b3cd1e2c849495e075b2f66662cfdb33647d/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Интер" tvg-id="" tvg-logo="",Интер
-http://192.168.1.203:8000/pid/51fa7abf534c020371edb9337ffd1e3255ddbe5c/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Искушение" tvg-id="" tvg-logo="",Искушение
-http://192.168.1.203:8000/pid/35e7577652eee5c37248bffeb9ef163e1c21fe68/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="История" tvg-id="" tvg-logo="",История
-http://192.168.1.203:8000/pid/1e3bb83b594d6ef7aca4fe8daa277a2ba71c5a92/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="К1" tvg-id="" tvg-logo="",К1
-http://192.168.1.203:8000/pid/6e679ae03722f77ebe64d7b11bd46007d1bccb9d/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="К2" tvg-id="" tvg-logo="",К2
-http://192.168.1.203:8000/pid/53177120fd81342eee1e22c249e0520211dececd/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Казахстан" tvg-id="" tvg-logo="",Казахстан
-http://192.168.1.203:8000/pid/c3921e21b245c0b8acb1756517e747325e271389/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Калейдоскоп_ТВ" tvg-id="" tvg-logo="",Калейдоскоп ТВ
-http://192.168.1.203:8000/pid/0082ddcec60d3dae591477fe27660892f35d77de/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Камеры_Санкт-Петербурга" tvg-id="" tvg-logo="",Камеры Санкт-Петербурга
-http://192.168.1.203:8000/pid/ae6cb6a590eb4096c5d6e9337972c864617804cb/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Карусель" tvg-id="" tvg-logo="",Карусель
-http://192.168.1.203:8000/pid/2368038216793ad363538760b698bddb835ca66a/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Карусель_(+3)" tvg-id="" tvg-logo="",Карусель (+3)
-http://192.168.1.203:8000/pid/6e5eb5f85fba6624e91f5f63fdce4f7149c79fa7/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="КВН_ТВ" tvg-id="" tvg-logo="",КВН ТВ
-http://192.168.1.203:8000/pid/2d14ff972c256d987022677f2de81daeaeb4ca92/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Киевская_Русь" tvg-id="" tvg-logo="",Киевская Русь
-http://192.168.1.203:8000/pid/b0fcf0b942b87b8a775ba03e914b0e1031a4ab75/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Кино_ТВ_HD" tvg-id="" tvg-logo="",Кино ТВ HD
-http://192.168.1.203:8000/pid/7e6ff0d3aa5d085c232f15b8dc9dfeb5a6d9eaf7/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Кинозал_(Боевики)" tvg-id="" tvg-logo="",Кинозал (Боевики)
-http://192.168.1.203:8000/pid/e403de60861edea0df3cc418797e58d0e2a49fae/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Кинозал_(Детский)" tvg-id="" tvg-logo="",Кинозал (Детский)
-http://192.168.1.203:8000/pid/c21f6e76c47d76d237f61994671642a940680fae/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Кинозал_(Комедия)" tvg-id="" tvg-logo="",Кинозал (Комедия)
-http://192.168.1.203:8000/pid/4b89dbebf7af85cf077f740fd962d367014532f6/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Кинозал_(Фантастика)" tvg-id="" tvg-logo="",Кинозал (Фантастика)
-http://192.168.1.203:8000/pid/079a764bf3f451c64ba2c632437de4b9e9b1d75a/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Кинокомедия" tvg-id="" tvg-logo="",Кинокомедия
-http://192.168.1.203:8000/pid/338bd94d68c914a3e8f802207d35051bd70e7bcc/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Киномикс" tvg-id="" tvg-logo="",Киномикс
-http://192.168.1.203:8000/pid/6695d847f87777c8ff5516c71778c864f14c9c06/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Кинопоказ_1_HD" tvg-id="" tvg-logo="",Кинопоказ 1 HD
-http://192.168.1.203:8000/pid/057cc78073486e51f2aa04c862230dece035cf28/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Кинопоказ_2_HD" tvg-id="" tvg-logo="",Кинопоказ 2 HD
-http://192.168.1.203:8000/pid/7dc88121307d0079d8c42cc305c01b04f3c34e03/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="КиноПремиум_HD" tvg-id="" tvg-logo="",КиноПремиум HD
-http://192.168.1.203:8000/pid/ca165a19e6bd8f52f27750acffbc1172528180d5/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Кинопремьера_HD" tvg-id="" tvg-logo="",Кинопремьера HD
-http://192.168.1.203:8000/pid/74acbc9fe63cf425c31c96024b37ab0f682456d1/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Киносвидание" tvg-id="" tvg-logo="",Киносвидание
-http://192.168.1.203:8000/pid/c8bd507f129df26794951d28c93fe6dd9b2fc9f0/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Киносемья" tvg-id="" tvg-logo="",Киносемья
-http://192.168.1.203:8000/pid/96a5ad02f7bb098545dcd11716752f4945f04533/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Киносерия" tvg-id="" tvg-logo="",Киносерия
-http://192.168.1.203:8000/pid/d201012da8a0350a2601ff77b13a4c956095a5cc/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Кинохит" tvg-id="" tvg-logo="",Кинохит
-http://192.168.1.203:8000/pid/7ea669281c8f69520e31c7f0ee016649bb3dec7f/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Конный_мир" tvg-id="" tvg-logo="",Конный мир
-http://192.168.1.203:8000/pid/7caf61b29304789dcec8847054c2620daf3c8ce1/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Кот_ТВ" tvg-id="" tvg-logo="",Кот ТВ
-http://192.168.1.203:8000/pid/ec96a5123ff81ccc78b091d437eff27464dbd0a5/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Красная_линия" tvg-id="" tvg-logo="",Красная линия
-http://192.168.1.203:8000/pid/efc95d1214259ff3e483591e8d5bc2ef8716a2f9/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Крик-ТВ" tvg-id="" tvg-logo="",Крик-ТВ
-http://192.168.1.203:8000/pid/3a2a196c4bcdc4beef58e280732fcb230fe1db0a/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="КТК" tvg-id="" tvg-logo="",КТК
-http://192.168.1.203:8000/pid/897a14ed1f2bc9d04576e5dac6bf652213658fc9/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Кто_есть_кто" tvg-id="" tvg-logo="",Кто есть кто
-http://192.168.1.203:8000/pid/74c843781424a17e628d28d1a79dec75613e4fb8/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Кубань_24_Орбита" tvg-id="" tvg-logo="",Кубань 24 Орбита
-http://192.168.1.203:8000/pid/26f8a04e3fe0c8d6e39b1045e16dbca352b3b4fd/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Культура_(Украина)" tvg-id="" tvg-logo="",Культура (Украина)
-http://192.168.1.203:8000/pid/3b9cf76eb940deeb68f364b87c60520e4154c757/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Купи_дом_ТВ_HD" tvg-id="" tvg-logo="",Купи дом ТВ HD
-http://192.168.1.203:8000/pid/70726093dccba1afd042182e6b7d717a199665c4/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Курай_ТВ" tvg-id="" tvg-logo="",Курай ТВ
-http://192.168.1.203:8000/pid/1b40e20bbd6bcfc022e8385f80c27598684b7180/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Кухня_ТВ" tvg-id="" tvg-logo="",Кухня ТВ
-http://192.168.1.203:8000/pid/4cc7c4714c70014d1408d09414d88d45eb4049a7/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="КХЛ_HD" tvg-id="" tvg-logo="",КХЛ HD
-http://192.168.1.203:8000/pid/d7d43e4f88c5bf8b2fb09596e3e9b801988ddcc3/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="КХЛ_ТВ" tvg-id="" tvg-logo="",КХЛ ТВ
-http://192.168.1.203:8000/pid/e090a5be1a76b5c6017200f7861719959ac60062/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="ЛДПР_ТВ" tvg-id="" tvg-logo="",ЛДПР ТВ
-http://192.168.1.203:8000/pid/e368b4a418eadc5316e7d9fbf4e0a8a5f3cfc5f7/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Любимое_ТВ" tvg-id="" tvg-logo="",Любимое ТВ
-http://192.168.1.203:8000/pid/1b9aaba009392a2caff69b98558122b3d0cf734a/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Ля-минор" tvg-id="" tvg-logo="",Ля-минор
-http://192.168.1.203:8000/pid/3a5c0abd809b09265bdbb09ce6e049b002670b34/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="М1" tvg-id="" tvg-logo="",М1
-http://192.168.1.203:8000/pid/5bc4a7b1cd5343b1347d4fdf2d8a5d5edba91b14/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="М2" tvg-id="" tvg-logo="",М2
-http://192.168.1.203:8000/pid/8de1dcfdbb2fe73c975c7630c39b20f6d2b7ebec/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Майдан" tvg-id="" tvg-logo="",Майдан
-http://192.168.1.203:8000/pid/f962f27976c8c83741c1d55add8d8bc1ee10a1c0/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Малыш" tvg-id="" tvg-logo="",Малыш
-http://192.168.1.203:8000/pid/2ffd848fb7caba4298d7833a09988589252ab5f8/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Малятко_ТВ" tvg-id="" tvg-logo="",Малятко ТВ
-http://192.168.1.203:8000/pid/f962f36d1d4c65cf92bd260e37a407e80269e50e/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Мама" tvg-id="" tvg-logo="",Мама
-http://192.168.1.203:8000/pid/af02d3c60244acb1a90eba63b8e8623738025644/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч_ТВ" tvg-id="" tvg-logo="",Матч ТВ
-http://192.168.1.203:8000/pid/70f498ab3d668bbcc5478a213eb25acdc61b6069/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч_ТВ_HD" tvg-id="" tvg-logo="",Матч ТВ HD
-http://192.168.1.203:8000/pid/18b941f6ba633fb56cd462ad9545999a2b440663/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Арена" tvg-id="" tvg-logo="",Матч! Арена
-http://192.168.1.203:8000/pid/7f8276fddad584419d40002a38d05aec75d18fdd/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Арена_HD" tvg-id="" tvg-logo="",Матч! Арена HD
-http://192.168.1.203:8000/pid/ef4f18b31cdce4dcd119a78402b7dfd97638e8e6/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Матч!_Боец" tvg-id="" tvg-logo="",Матч! Боец
-http://192.168.1.203:8000/pid/efaced0aba0a37710c3660f4790943733fda72ec/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Игра" tvg-id="" tvg-logo="",Матч! Игра
-http://192.168.1.203:8000/pid/48bf4ff4f8bf80f3bbd78a25406bb5ed43d3a8fa/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Игра_HD" tvg-id="" tvg-logo="",Матч! Игра HD
-http://192.168.1.203:8000/pid/cb9143a5a2b36a1967f604a7e597d87bff62ca3b/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Наш_Спорт" tvg-id="" tvg-logo="",Матч! Наш Спорт
-http://192.168.1.203:8000/pid/d60832be4d45b44d4017e4f8a1b6897d2e7d73ec/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Планета" tvg-id="" tvg-logo="",Матч! Планета
-http://192.168.1.203:8000/pid/19f02bad88022e0a5c13f03fd78eb740cc999300/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_1" tvg-id="" tvg-logo="",Матч! Футбол 1
-http://192.168.1.203:8000/pid/fcdea210a8a53e7d9c1f608b6037250d8ccba036/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_1_HD" tvg-id="" tvg-logo="",Матч! Футбол 1 HD
-http://192.168.1.203:8000/pid/2ca4358b0d2688ff5c4d0b7291caf5dbb05f02a1/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_1_HD_Резерв_1" tvg-id="" tvg-logo="",Матч! Футбол 1 HD Резерв 1
-http://192.168.1.203:8000/pid/9218aea3ad69b540eda5022bfaa3d7fa924f24d8/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_1_HD_Резерв_2" tvg-id="" tvg-logo="",Матч! Футбол 1 HD Резерв 2
-http://192.168.1.203:8000/pid/b21dda1d50b9308cc931b4f10c62b105d31ddc9b/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_1_HD_Резерв_3" tvg-id="" tvg-logo="",Матч! Футбол 1 HD Резерв 3
-http://192.168.1.203:8000/pid/c65b59f86307281d6ef1808f7009fd7710214196/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_1_Резерв_1" tvg-id="" tvg-logo="",Матч! Футбол 1 Резерв 1
-http://192.168.1.203:8000/pid/6149437e334f110cbb9f58779c129b843964b66d/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_1_Резерв_2" tvg-id="" tvg-logo="",Матч! Футбол 1 Резерв 2
-http://192.168.1.203:8000/pid/ee8d5d508b11e225078812773b10d20a3a62db3d/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_1_Резерв_3" tvg-id="" tvg-logo="",Матч! Футбол 1 Резерв 3
-http://192.168.1.203:8000/pid/dd8236b486cd028b4314a4fccd72941c46b24a97/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_2" tvg-id="" tvg-logo="",Матч! Футбол 2
-http://192.168.1.203:8000/pid/5bf3c177c78f61f0785dce92bb4c1677f82805a0/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_2_HD" tvg-id="" tvg-logo="",Матч! Футбол 2 HD
-http://192.168.1.203:8000/pid/c238e25235d013122266c011a732a4b8d56c7e38/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_3" tvg-id="" tvg-logo="",Матч! Футбол 3
-http://192.168.1.203:8000/pid/494bb323f92e66331d3a3a3255a9b38cdf77d097/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Матч!_Футбол_3_HD" tvg-id="" tvg-logo="",Матч! Футбол 3 HD
-http://192.168.1.203:8000/pid/0876fd903d3469ff52508447540758c4884ddd0d/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Мега" tvg-id="" tvg-logo="",Мега
-http://192.168.1.203:8000/pid/9776ccabefff68c67e7db5585947066d8efecfe0/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Миллет" tvg-id="" tvg-logo="",Миллет
-http://192.168.1.203:8000/pid/3db42134b4476f2508e1a0df3e4537f4c88a800d/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Министерство_идей" tvg-id="" tvg-logo="",Министерство идей
-http://192.168.1.203:8000/pid/7efdbd36e756069323b4822baf07169697e05e92/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Мир" tvg-id="" tvg-logo="",Мир
-http://192.168.1.203:8000/pid/5cd3cb6e5f9b471242fbd2fffc1b20c5f616b879/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Мир_(+3)" tvg-id="" tvg-logo="",Мир (+3)
-http://192.168.1.203:8000/pid/219b39518925726cc3d862787fad1c76efae848e/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Мир_24" tvg-id="" tvg-logo="",Мир 24
-http://192.168.1.203:8000/pid/91e151a07583d125c3b369d8eea9de8d22528195/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Мир_HD" tvg-id="" tvg-logo="",Мир HD
-http://192.168.1.203:8000/pid/7cc7f20df96c10b6133b92c18c946ce95b70af18/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Мир_Белогорья" tvg-id="" tvg-logo="",Мир Белогорья
-http://192.168.1.203:8000/pid/d37d36b448b4c2a7a6c40c0becbfa89484e3c58d/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Мир_сериала" tvg-id="" tvg-logo="",Мир сериала
-http://192.168.1.203:8000/pid/e363e070af0d83cf4aa05147fe6c561b513cdcb7/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Мир_увлечений" tvg-id="" tvg-logo="",Мир увлечений
-http://192.168.1.203:8000/pid/b95cdfb024b8c704dc42d5f44f14b0bce0aadbb5/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Морской" tvg-id="" tvg-logo="",Морской
-http://192.168.1.203:8000/pid/9537a87909844e33eacb85b14e6922d42ebde545/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Москва_24" tvg-id="" tvg-logo="",Москва 24
-http://192.168.1.203:8000/pid/8c808716e7c434557a9a381af5d4c1ca805ccde5/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Москва_Доверие" tvg-id="" tvg-logo="",Москва Доверие
-http://192.168.1.203:8000/pid/776a6e7c9bfc3389e02589cfae719c7bcede73d4/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Моя_планета" tvg-id="" tvg-logo="",Моя планета
-http://192.168.1.203:8000/pid/54bb7e6920aefc424bb8d381c213b6579972e3c0/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Мужское_кино" tvg-id="" tvg-logo="",Мужское кино
-http://192.168.1.203:8000/pid/9de0e917970d903a5ad3c2b997fbc28bb3e7f35e/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Мужской" tvg-id="" tvg-logo="",Мужской
-http://192.168.1.203:8000/pid/2f4a8cbb1b5dafc839251c8e2eeca17ec769cb7c/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Муз_ТВ" tvg-id="" tvg-logo="",Муз ТВ
-http://192.168.1.203:8000/pid/0cf55bf08f6adaa070a1aea5495e616e6aea52ae/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="МузСоюз" tvg-id="" tvg-logo="",МузСоюз
-http://192.168.1.203:8000/pid/d73365ff6fa50dfc22ee3e9b2713b412279e787c/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Музыка_Первого" tvg-id="" tvg-logo="",Музыка Первого
-http://192.168.1.203:8000/pid/63ef74236e534d2eff38f030dd521d30408bb2a3/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Мульт" tvg-id="" tvg-logo="",Мульт
-http://192.168.1.203:8000/pid/08f7f95807e5c7dd033f528e919091931036a179/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Мультимания" tvg-id="" tvg-logo="",Мультимания
-http://192.168.1.203:8000/pid/252eb1af9d43d1dda912f5a360e7fda61af6ba9e/stream.mp4
-#EXTINF:-1 group-title="Религиозные" tvg-name="Надежда" tvg-id="" tvg-logo="",Надежда
-http://192.168.1.203:8000/pid/2e8da7baade2ff8819ad196bdc71c4cb81996c33/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Нано_ТВ" tvg-id="" tvg-logo="",Нано ТВ
-http://192.168.1.203:8000/pid/6210b45e7fdcfc5db5c758741d89dc487c1e69be/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Настоящее_время_HD" tvg-id="" tvg-logo="",Настоящее время HD
-http://192.168.1.203:8000/pid/7a59a2e648810ceda7e2fe1778ff190161d22201/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Наука_2.0" tvg-id="" tvg-logo="",Наука 2.0
-http://192.168.1.203:8000/pid/a137ff2ab039f3ec7c64aa158fb11cf71e2ccaca/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Наш_детектив_HD" tvg-id="" tvg-logo="",Наш детектив HD
-http://192.168.1.203:8000/pid/a44bfdaab3d54d9eb2a5a7d8ddb81435320917ac/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Наш_кинороман_HD" tvg-id="" tvg-logo="",Наш кинороман HD
-http://192.168.1.203:8000/pid/f1f0fd482cbefb251e11a06af92020cc98152456/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Наш_футбол_HD" tvg-id="" tvg-logo="",Наш футбол HD
-http://192.168.1.203:8000/pid/3ea9d83a91347f6b7bcabeb89b3c5de3dff2cf75/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Наше_любимое_кино" tvg-id="" tvg-logo="",Наше любимое кино
-http://192.168.1.203:8000/pid/ab765ad98fce4c8179391f1c6767fb7e5ac11537/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Наше_новое_кино" tvg-id="" tvg-logo="",Наше новое кино
-http://192.168.1.203:8000/pid/89f36b6e04317e2a122382ab8d0d3f3b87ec77c9/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Наше_ТВ" tvg-id="" tvg-logo="",Наше ТВ
-http://192.168.1.203:8000/pid/c09b011eb3c56ec401091aaa6f6b2c8edcbfb483/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Новое_телевидение" tvg-id="" tvg-logo="",Новое телевидение
-http://192.168.1.203:8000/pid/097597a3f00dad362d0e03929a0b77e32c5602cb/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Новый_канал" tvg-id="" tvg-logo="",Новый канал
-http://192.168.1.203:8000/pid/c9d0c0b8a1f7380fc8f598881d61a168b06967ce/stream.mp4
-#EXTINF:-1 group-title="Религиозные" tvg-name="Новый_Христианский" tvg-id="" tvg-logo="",Новый Христианский
-http://192.168.1.203:8000/pid/ff975f2043bdefab71c6f324a2f86cfba5611828/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Ностальгия" tvg-id="" tvg-logo="",Ностальгия
-http://192.168.1.203:8000/pid/4edefe944eb2f28b71280ecfac4e0975d11d5025/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Ночной_клуб" tvg-id="" tvg-logo="",Ночной клуб
-http://192.168.1.203:8000/pid/a7ad39ea2fbf00d2784c080542bf15d9f0d2cd37/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="НСТ" tvg-id="" tvg-logo="",НСТ
-http://192.168.1.203:8000/pid/1d97cdbb801f9a26140723b4b720b7ca67699f4b/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="НТВ" tvg-id="" tvg-logo="",НТВ
-http://192.168.1.203:8000/pid/38f04027b7ba7e4e9daa62eeecec68d3eecca5d2/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="НТВ_(+2)" tvg-id="" tvg-logo="",НТВ (+2)
-http://192.168.1.203:8000/pid/438c098a15febf1138f3bc03afbcbc14362f48dc/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="НТВ_(+4)" tvg-id="" tvg-logo="",НТВ (+4)
-http://192.168.1.203:8000/pid/73a0766febdd4db4eaa4158e5909ef47a3398a10/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="НТВ_HD" tvg-id="" tvg-logo="",НТВ HD
-http://192.168.1.203:8000/pid/e0db47f066c254aedb065a9099d6b84bc6d22a07/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="НТВ_Мир_Балтия" tvg-id="" tvg-logo="",НТВ Мир Балтия
-http://192.168.1.203:8000/pid/0c104b3b225788d1e2336d508265342f8b6abc2f/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="НТВ_Право" tvg-id="" tvg-logo="",НТВ Право
-http://192.168.1.203:8000/pid/6eb49b469c0f3e16970cf6842c2a662244259a28/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="НТВ+_Инфоканал" tvg-id="" tvg-logo="",НТВ+ Инфоканал
-http://192.168.1.203:8000/pid/3944c96725d45196500a73eb676309df72ff23a5/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="НТН_(Украина)" tvg-id="" tvg-logo="",НТН (Украина)
-http://192.168.1.203:8000/pid/59acf1ce217651b45b7c484a07a457186fb1c8e5/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="О!" tvg-id="" tvg-logo="",О!
-http://192.168.1.203:8000/pid/4ff3c588fbc53c5e2cee6c16d967b3b04b611e20/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ОНТ_(Беларусь)" tvg-id="" tvg-logo="",ОНТ (Беларусь)
-http://192.168.1.203:8000/pid/11cc5946741e7911bc2a7396f512e0cc50ed934a/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Оружие" tvg-id="" tvg-logo="",Оружие
-http://192.168.1.203:8000/pid/b5fbcd5cb6ce818096c65c0a56525a4b794a8cf3/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Остросюжетное_HD" tvg-id="" tvg-logo="",Остросюжетное HD
-http://192.168.1.203:8000/pid/f65ceaf0da3bac61783592bfdf279754d650acdf/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ОТВ_(Приморье)" tvg-id="" tvg-logo="",ОТВ (Приморье)
-http://192.168.1.203:8000/pid/cd2e8a8def4b97609f24793811ba1e52736d3c5c/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Открытый_HD" tvg-id="" tvg-logo="",Открытый HD
-http://192.168.1.203:8000/pid/6c2e92fb7183c377ed00fd27f4db35ce1b91e6e8/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Открытый_мир" tvg-id="" tvg-logo="",Открытый мир
-http://192.168.1.203:8000/pid/817d2a97bea4cc6d62fa28374836dcf8922dc383/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Охота_и_рыбалка" tvg-id="" tvg-logo="",Охота и рыбалка
-http://192.168.1.203:8000/pid/6d7158427104653b65aa11cfb52d3bc99913997a/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Охотник_и_рыболов_HD" tvg-id="" tvg-logo="",Охотник и рыболов HD
-http://192.168.1.203:8000/pid/c48b20375b7d2c39834f865ff58968f825fabb91/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Первый_городской_Одесса" tvg-id="" tvg-logo="",Первый городской Одесса
-http://192.168.1.203:8000/pid/9a6e14b5c6535d1b79ad5db09da5a7deb3500345/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Первый_деловой" tvg-id="" tvg-logo="",Первый деловой
-http://192.168.1.203:8000/pid/35114d581dcf94646c22787386274f0931a27c9b/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Первый_канал" tvg-id="" tvg-logo="",Первый канал
-http://192.168.1.203:8000/pid/26ab0d53f05ede87c90ef7bbb9af1652f17d1501/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Первый_канал_(+2)" tvg-id="" tvg-logo="",Первый канал (+2)
-http://192.168.1.203:8000/pid/7333a473a83e71d1abc6c7bd96574134274788de/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Первый_канал_(+4)" tvg-id="" tvg-logo="",Первый канал (+4)
-http://192.168.1.203:8000/pid/c8188a2edb4239be5ad1b2c3e8dfc1183a17adc4/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Первый_канал_(+6)" tvg-id="" tvg-logo="",Первый канал (+6)
-http://192.168.1.203:8000/pid/b8b5a02cd2eb194cb4a6fe0d3475dc46aed99a51/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Первый_канал_(4:3)" tvg-id="" tvg-logo="",Первый канал (4:3)
-http://192.168.1.203:8000/pid/cd4be13a26464236c8a0159d0532862545417c4f/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Первый_канал_(Евразия)" tvg-id="" tvg-logo="",Первый канал (Евразия)
-http://192.168.1.203:8000/pid/bc2c2cce849ee5e3d7c995832ca0ac831b860e4e/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Первый_канал_(Молдова)" tvg-id="" tvg-logo="",Первый канал (Молдова)
-http://192.168.1.203:8000/pid/10169224aa085af95f0d7d9e9c67c975acec7724/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Первый_канал_HD" tvg-id="" tvg-logo="",Первый канал HD
-http://192.168.1.203:8000/pid/e5a3fb27161d73753dc9f7dfc65eb374e4a33b7f/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Первый_канал_HD_(+4)" tvg-id="" tvg-logo="",Первый канал HD (+4)
-http://192.168.1.203:8000/pid/ddcba50ee47d70bb5c356aac9e127ba8a677510e/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Первый_Метео" tvg-id="" tvg-logo="",Первый Метео
-http://192.168.1.203:8000/pid/c6812a3fba8eb0cbd1a496b10dcdfd43c4d4aa90/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Первый_музыкальный_HD" tvg-id="" tvg-logo="",Первый музыкальный HD
-http://192.168.1.203:8000/pid/5d08c3adb86c5d914629557011a79b5810d8017a/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Первый_музыкальный_UHD" tvg-id="" tvg-logo="",Первый музыкальный UHD
-http://192.168.1.203:8000/pid/f1403bc3b00f3391157f77efa9568810d9f2fe44/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Первый_музыкальный_канал" tvg-id="" tvg-logo="",Первый музыкальный канал
-http://192.168.1.203:8000/pid/bb1557cfa597eb81cd9545d29355cafefa7e6637/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Первый_музыкальный_Россия" tvg-id="" tvg-logo="",Первый музыкальный Россия
-http://192.168.1.203:8000/pid/918afd934652ac1154a8e3a0830411700cf608d0/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Первый_музыкальный_Россия_HD" tvg-id="" tvg-logo="",Первый музыкальный Россия HD
-http://192.168.1.203:8000/pid/40789712edb7a04293b9640389123579ef4d7c64/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Первый_образовательный" tvg-id="" tvg-logo="",Первый образовательный
-http://192.168.1.203:8000/pid/8bab61698cd8b83e71ab6384fdd5ceb8d4a172d0/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Первый_Ярославский" tvg-id="" tvg-logo="",Первый Ярославский
-http://192.168.1.203:8000/pid/ea57d9cca6345d9f47db8a79c99d78f70ca2d4d7/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="ПИК" tvg-id="" tvg-logo="",ПИК
-http://192.168.1.203:8000/pid/880743d531a7f95c4c0b1ef7fef4687c79fb891a/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="ПИК_HD" tvg-id="" tvg-logo="",ПИК HD
-http://192.168.1.203:8000/pid/533ebbf8bbf191f306f072672b13342b8acba1a4/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Пиксель_ТВ" tvg-id="" tvg-logo="",Пиксель ТВ
-http://192.168.1.203:8000/pid/64897d799dee5585c94f99cbb9e8e7b5384d7f70/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Пингвин_Лоло" tvg-id="" tvg-logo="",Пингвин Лоло
-http://192.168.1.203:8000/pid/96e11c3920ff8ba9ed0a3f27aefefa8a76325f7a/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="ПлюсПлюс" tvg-id="" tvg-logo="",ПлюсПлюс
-http://192.168.1.203:8000/pid/935998f95ddc8ed7c0ddbceb0ed9ece086ba87c1/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Поехали!" tvg-id="" tvg-logo="",Поехали!
-http://192.168.1.203:8000/pid/f93fbbc8a3e2e247be5b113c90fd68f90dfb96ac/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Про_все" tvg-id="" tvg-logo="",Про все
-http://192.168.1.203:8000/pid/0622411eeb55a19fffeecef1eb2c26948c3953cb/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Просвещение" tvg-id="" tvg-logo="",Просвещение
-http://192.168.1.203:8000/pid/5c553b984d306e017ba07b33950354fce19fd7d4/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Психология_21" tvg-id="" tvg-logo="",Психология 21
-http://192.168.1.203:8000/pid/0a2ff1a7645cac73f9b1501b22663a17412641d1/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Пушкин_-_Царское_село" tvg-id="" tvg-logo="",Пушкин - Царское село
-http://192.168.1.203:8000/pid/52d55b367d0d836ef189a717b1d1b6d8de2b7389/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Пятница" tvg-id="" tvg-logo="",Пятница
-http://192.168.1.203:8000/pid/f6316cf06049cc1584b9f5b5b9953f79154662b8/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Пятница_(+2)" tvg-id="" tvg-logo="",Пятница (+2)
-http://192.168.1.203:8000/pid/38d08ee18b3c4cb825c075d1e0df536bc8613412/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Пятый_канал" tvg-id="" tvg-logo="",Пятый канал
-http://192.168.1.203:8000/pid/8eec1385ff5188124264c83fe8e3addc5f6ab36c/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Пятый_канал_(+2)" tvg-id="" tvg-logo="",Пятый канал (+2)
-http://192.168.1.203:8000/pid/7ff6b68f5c4bfc5ab50ae45743ca94601cd798c3/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Рада_(Украина)" tvg-id="" tvg-logo="",Рада (Украина)
-http://192.168.1.203:8000/pid/578eacd69096f45ad7a2968a6d83e529d8a51b9c/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Радость_моя" tvg-id="" tvg-logo="",Радость моя
-http://192.168.1.203:8000/pid/5f04f8e6178153585ab42f1db7fc4372629a7541/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Раз_ТВ" tvg-id="" tvg-logo="",Раз ТВ
-http://192.168.1.203:8000/pid/ddd16682183b873f4ac909f2448bc4168a87cbb4/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="РБК" tvg-id="" tvg-logo="",РБК
-http://192.168.1.203:8000/pid/cfd1505e45f79e779c25c08417087bfeb53d4576/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="РЕН_ТВ" tvg-id="" tvg-logo="",РЕН ТВ
-http://192.168.1.203:8000/pid/6c7078ce721ac15ded9ad3bcbae7ad49e8edf46a/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="РЕН_ТВ_(+2)" tvg-id="" tvg-logo="",РЕН ТВ (+2)
-http://192.168.1.203:8000/pid/49f6d4d34af813d50ef39ac686db0708a1b00f5a/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="РЕН_ТВ_(+4)" tvg-id="" tvg-logo="",РЕН ТВ (+4)
-http://192.168.1.203:8000/pid/78d51d6b3e56b51182a992bfea47806f1da8b5f2/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="РЕН_ТВ_(+7)" tvg-id="" tvg-logo="",РЕН ТВ (+7)
-http://192.168.1.203:8000/pid/0941ffd5d637c8d3ec1071c412ee4fa422c3e927/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="РЕН_ТВ_(резерв)" tvg-id="" tvg-logo="",РЕН ТВ (резерв)
-http://192.168.1.203:8000/pid/a54f4deb744a4be3811a11e823409d82a53b3055/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Ретро-ТВ" tvg-id="" tvg-logo="",Ретро-ТВ
-http://192.168.1.203:8000/pid/035b79d8272f384339d38973aa04738044378b21/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Родное_кино" tvg-id="" tvg-logo="",Родное кино
-http://192.168.1.203:8000/pid/8e0fb969853e69ccbda0970088ce778406c57ae9/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Россия_1" tvg-id="" tvg-logo="",Россия 1
-http://192.168.1.203:8000/pid/533ea55a94e2a37ff3aff2cf782fa59e0d8ced92/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Россия_1_(+2)" tvg-id="" tvg-logo="",Россия 1 (+2)
-http://192.168.1.203:8000/pid/8ad530edd54595f4a5f6ecb44188a6b7846e13ec/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Россия_1_(+4)" tvg-id="" tvg-logo="",Россия 1 (+4)
-http://192.168.1.203:8000/pid/a61f022e4e44cc29d58a20c92a45685857443b1d/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Россия_1_(+6)" tvg-id="" tvg-logo="",Россия 1 (+6)
-http://192.168.1.203:8000/pid/a7f80e37805022a7eeb6ed4130aee2a98c6fbc95/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Россия_24" tvg-id="" tvg-logo="",Россия 24
-http://192.168.1.203:8000/pid/a997a16b6ab5a7d06dc8aa72b845f38f9a9451aa/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Россия_HD" tvg-id="" tvg-logo="",Россия HD
-http://192.168.1.203:8000/pid/2afc3c25b7d7bd355f878f4499b29de03029794d/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Россия_К" tvg-id="" tvg-logo="",Россия К
-http://192.168.1.203:8000/pid/ed784bba835ccf1ac34cbd474ed96d9070543d13/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Россия_К_(+2)" tvg-id="" tvg-logo="",Россия К (+2)
-http://192.168.1.203:8000/pid/2a5e21dc9881bafc1b7e1cdc224200def2aee74b/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Россия_РТР" tvg-id="" tvg-logo="",Россия РТР
-http://192.168.1.203:8000/pid/ec4c6b9b71366ebeaba9c45b835b1dbfa2d35fc2/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Рудана" tvg-id="" tvg-logo="",Рудана
-http://192.168.1.203:8000/pid/8e83ba9aa82ca43b15734d7c35319b64ee35df01/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Русская_комедия" tvg-id="" tvg-logo="",Русская комедия
-http://192.168.1.203:8000/pid/898333a6819bf18dfc938e02f278fc51722b4532/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Русская_ночь" tvg-id="" tvg-logo="",Русская ночь
-http://192.168.1.203:8000/pid/e3cefc542eed6a645570d296b735eb7c7fac6b8e/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Русский_бестселлер" tvg-id="" tvg-logo="",Русский бестселлер
-http://192.168.1.203:8000/pid/688138e6acb082c61a2cfb73f1dac6af0786ec93/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Русский_детектив" tvg-id="" tvg-logo="",Русский детектив
-http://192.168.1.203:8000/pid/765b194b1660ef0917055014cf2dfd4dc509bc51/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Русский_иллюзион" tvg-id="" tvg-logo="",Русский иллюзион
-http://192.168.1.203:8000/pid/6eabd3d040a2e51256cedc0f1fb095e227953652/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Русский_роман" tvg-id="" tvg-logo="",Русский роман
-http://192.168.1.203:8000/pid/04fc913b9a18d841feb2c376b28826eb844d25cf/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="Русский_роман_HD" tvg-id="" tvg-logo="",Русский роман HD
-http://192.168.1.203:8000/pid/bff77459ea30b8284000ba757a8f6c1b28e1c66a/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Русский_экстрим" tvg-id="" tvg-logo="",Русский экстрим
-http://192.168.1.203:8000/pid/3f007c01490a38ede77f845b2366d5c80cb78f12/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Русский_экстрим_HD" tvg-id="" tvg-logo="",Русский экстрим HD
-http://192.168.1.203:8000/pid/ce9ff5e0a40a99b8552182a354bd3dee5dcc01b4/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Самара_ГИС" tvg-id="" tvg-logo="",Самара ГИС
-http://192.168.1.203:8000/pid/fc462983ab39880dece9ce023bc01bd3d96679d6/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Санкт-Петербург" tvg-id="" tvg-logo="",Санкт-Петербург
-http://192.168.1.203:8000/pid/7e2a8f378d3daa6758d475c67dfa2b2b5e4b3a2f/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Сарафан_ТВ" tvg-id="" tvg-logo="",Сарафан ТВ
-http://192.168.1.203:8000/pid/2343d0c9e323dff9ea123ae6e1da91d8a76727c8/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Совершенно_секретно" tvg-id="" tvg-logo="",Совершенно секретно
-http://192.168.1.203:8000/pid/57841a0c83a517635fc7fbb4b276ffa6c626e8f4/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Сонце" tvg-id="" tvg-logo="",Сонце
-http://192.168.1.203:8000/pid/378aadbb4bf7e67b9541b627617e155568fd5f3c/stream.mp4
-#EXTINF:-1 group-title="Религиозные" tvg-name="Союз" tvg-id="" tvg-logo="",Союз
-http://192.168.1.203:8000/pid/2c65cffe8f536144ee3ec834fbb330ebbb9df637/stream.mp4
-#EXTINF:-1 group-title="Религиозные" tvg-name="Спас_ТВ" tvg-id="" tvg-logo="",Спас ТВ
-http://192.168.1.203:8000/pid/85d205f6f7b1b529223e868d277990f6a49ca915/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Спорт_1_(Украина)" tvg-id="" tvg-logo="",Спорт 1 (Украина)
-http://192.168.1.203:8000/pid/a2058738fbb658147e411ac047a373273783743a/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Спорт_2_(Украина)" tvg-id="" tvg-logo="",Спорт 2 (Украина)
-http://192.168.1.203:8000/pid/75f57785eaef12c2d50015c7bd795cdf94a47047/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="СТБ" tvg-id="" tvg-logo="",СТБ
-http://192.168.1.203:8000/pid/53e719cbd588bc73ba7099e0f7b0d4a74178fa82/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="СТВ" tvg-id="" tvg-logo="",СТВ
-http://192.168.1.203:8000/pid/742f63a843101c40eebef168c0e1aabb873dd77a/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Страна" tvg-id="" tvg-logo="",Страна
-http://192.168.1.203:8000/pid/a384bf9726dfaeba8774de1f0699db0f38451a05/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Страна_FM_ТВ" tvg-id="" tvg-logo="",Страна FM ТВ
-http://192.168.1.203:8000/pid/fc99c36e59dbc88f4e3b70cf88dcc67d65a232a9/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="СТРК_HD_Сочи" tvg-id="" tvg-logo="",СТРК HD Сочи
-http://192.168.1.203:8000/pid/8343bd29d3eb74d761076dee8d302c662d18173e/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="СТС" tvg-id="" tvg-logo="",СТС
-http://192.168.1.203:8000/pid/34f771ed63907e6e7b0dbd90d59acce4bf9ce8f7/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="СТС_(+2)" tvg-id="" tvg-logo="",СТС (+2)
-http://192.168.1.203:8000/pid/9bd4184f08dc5c96e2e97d6ce488860081c0f76a/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="СТС_(+4)" tvg-id="" tvg-logo="",СТС (+4)
-http://192.168.1.203:8000/pid/88e9410e7196f6ceaf62768687d422255cec9c85/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="СТС_(+7)" tvg-id="" tvg-logo="",СТС (+7)
-http://192.168.1.203:8000/pid/f7804ec7c8bef1b65aefeea81243e5c46860195b/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="СТС_(резерв)" tvg-id="" tvg-logo="",СТС (резерв)
-http://192.168.1.203:8000/pid/ad6686eb31d1651ea258f027e64fb6594a886f78/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="СТС_Love" tvg-id="" tvg-logo="",СТС Love
-http://192.168.1.203:8000/pid/a52f567f19c5df2d021a216bae4b3ab956df104a/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="СТС_Love_(+7)" tvg-id="" tvg-logo="",СТС Love (+7)
-http://192.168.1.203:8000/pid/c3d244358f9676abd8aaadb41d2eb8b2b3087c84/stream.mp4
-#EXTINF:-1 group-title="Религиозные" tvg-name="ТБН" tvg-id="" tvg-logo="",ТБН
-http://192.168.1.203:8000/pid/078fce4062fba65c3691f885420f89282673b2e3/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="ТВ_3" tvg-id="" tvg-logo="",ТВ 3
-http://192.168.1.203:8000/pid/2b8d7120e5c628221e3f5ab9a4cdbc29c87d5b36/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="ТВ_3_(+2)" tvg-id="" tvg-logo="",ТВ 3 (+2)
-http://192.168.1.203:8000/pid/e7e81ced349e126f6343b345da44f351a0f36e29/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="ТВ_3_(+3)" tvg-id="" tvg-logo="",ТВ 3 (+3)
-http://192.168.1.203:8000/pid/79f0699ad924ead8362b7d54d00db700c59b9bc6/stream.mp4
-#EXTINF:-1 group-title="Фильмы" tvg-name="ТВ_3_(+7)" tvg-id="" tvg-logo="",ТВ 3 (+7)
-http://192.168.1.203:8000/pid/a6e755ac02da2cfc3cbce928251ede24af0d8188/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Тверской_проспект" tvg-id="" tvg-logo="",Тверской проспект
-http://192.168.1.203:8000/pid/00fead9ddd17df737b5b2b6a1d49a8d34979bdef/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="твоЁтв" tvg-id="" tvg-logo="",твоЁтв
-http://192.168.1.203:8000/pid/ab3193ef9d797e44eca34427f03cda755c2fe868/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="ТВЦ" tvg-id="" tvg-logo="",ТВЦ
-http://192.168.1.203:8000/pid/b578ba684bee06528b0190c8cd1ab5709eee1b0f/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТДК" tvg-id="" tvg-logo="",ТДК
-http://192.168.1.203:8000/pid/2ace1ba9cc250c623829df3e8e6475f244d8d7d2/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Театр" tvg-id="" tvg-logo="",Театр
-http://192.168.1.203:8000/pid/8ce32dcabc58d668c31084465c7dc859f8d937b6/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Теледом_HD" tvg-id="" tvg-logo="",Теледом HD
-http://192.168.1.203:8000/pid/e9c37aceb4d952b229172d95c7b197a5942c83ae/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Телекафе" tvg-id="" tvg-logo="",Телекафе
-http://192.168.1.203:8000/pid/999fff6958d8117f602f212c62664ae2160be594/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Терра" tvg-id="" tvg-logo="",Терра
-http://192.168.1.203:8000/pid/2c93e1485653fd474ae2aefe87086663bda664b5/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Терра" tvg-id="" tvg-logo="",Терра
-http://192.168.1.203:8000/pid/e0be5b95619243a6075c44931c43e21b3bbd13d3/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТЕТ" tvg-id="" tvg-logo="",ТЕТ
-http://192.168.1.203:8000/pid/76c051197828f48011c967eae6affc396e5e737a/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Техно_24" tvg-id="" tvg-logo="",Техно 24
-http://192.168.1.203:8000/pid/03cad9864d7856d2623ea3479cc1af36100426fb/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Тиса-1" tvg-id="" tvg-logo="",Тиса-1
-http://192.168.1.203:8000/pid/d9a7873bd93e3c9fea3730f3744b118696e8c6ec/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Тлум_HD" tvg-id="" tvg-logo="",Тлум HD
-http://192.168.1.203:8000/pid/15dd1b97affbe677519ca3d66e2f92e64d0d4818/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ТНВ-Планета" tvg-id="" tvg-logo="",ТНВ-Планета
-http://192.168.1.203:8000/pid/b8f9d833e08344bf28fb428cbb6007b121666e40/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ТНВ-Татарстан" tvg-id="" tvg-logo="",ТНВ-Татарстан
-http://192.168.1.203:8000/pid/700831756146896c405573a898b0906e6b3a76d9/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТНТ" tvg-id="" tvg-logo="",ТНТ
-http://192.168.1.203:8000/pid/cbf6ac2f8841937eb00b48687a50972079500178/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТНТ_(+2)" tvg-id="" tvg-logo="",ТНТ (+2)
-http://192.168.1.203:8000/pid/3d21efba4565841817db0711001fde7d48555d38/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТНТ_(+4)" tvg-id="" tvg-logo="",ТНТ (+4)
-http://192.168.1.203:8000/pid/8f2a8e2bfa809226aea7518f12313ac4a9870a66/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТНТ_(+7)" tvg-id="" tvg-logo="",ТНТ (+7)
-http://192.168.1.203:8000/pid/6371bc7b2b70c36c4ea2e58cdcd55d9208b0d152/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТНТ_(резерв)" tvg-id="" tvg-logo="",ТНТ (резерв)
-http://192.168.1.203:8000/pid/46767975e48d718c117e764cc210bc800d765470/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТНТ_International_(Беларусь)" tvg-id="" tvg-logo="",ТНТ International (Беларусь)
-http://192.168.1.203:8000/pid/8f217c4254db840d729a73d1556c0f9d0a7058d6/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="ТНТ-Music" tvg-id="" tvg-logo="",ТНТ-Music
-http://192.168.1.203:8000/pid/9b999b7b257a1eb8d1e0c05c251ad5d2cf53e08c/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТНТ4" tvg-id="" tvg-logo="",ТНТ4
-http://192.168.1.203:8000/pid/fbf964eaca2235ade0101009a595d5262f0be4bf/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТНТ4_(+2)" tvg-id="" tvg-logo="",ТНТ4 (+2)
-http://192.168.1.203:8000/pid/f04321e92b9b9d0db2bf811ed12e0201c3388956/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТНТ4_(+4)" tvg-id="" tvg-logo="",ТНТ4 (+4)
-http://192.168.1.203:8000/pid/d05dc1e329874db9c662d6757b8b570919a9c5e3/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="ТНТ4_(+7)" tvg-id="" tvg-logo="",ТНТ4 (+7)
-http://192.168.1.203:8000/pid/3371af070a885ce56627b4d24474e0430f8ac2f7/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Томское_время" tvg-id="" tvg-logo="",Томское время
-http://192.168.1.203:8000/pid/84daf9bb72ef61f164136f1fbe698696de344445/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Точка_ТВ" tvg-id="" tvg-logo="",Точка ТВ
-http://192.168.1.203:8000/pid/e1cb8059f3137b83c36f2e9f907b6d949ea3d5fa/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Третий_Цифровой_Одесса" tvg-id="" tvg-logo="",Третий Цифровой Одесса
-http://192.168.1.203:8000/pid/bfbf7ffdc3880b847a66dbbe6b7cf8250cd3807a/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ТРК_555" tvg-id="" tvg-logo="",ТРК 555
-http://192.168.1.203:8000/pid/b30c9b50654e15bd4e7312f387f08eb8cd1873b6/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ТРК_Киев" tvg-id="" tvg-logo="",ТРК Киев
-http://192.168.1.203:8000/pid/8588fb8578530c4abe86d4be669a1ab88594840a/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="ТРК_Украина" tvg-id="" tvg-logo="",ТРК Украина
-http://192.168.1.203:8000/pid/2099045736e3989ab421199ff9b84392049fc632/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ТРО_Союза" tvg-id="" tvg-logo="",ТРО Союза
-http://192.168.1.203:8000/pid/06e308e8e46630bab908438242d2417de64f0737/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Трофей" tvg-id="" tvg-logo="",Трофей
-http://192.168.1.203:8000/pid/c576c6bbff32312719cc6e55592790bda25beb75/stream.mp4
-#EXTINF:-1 group-title="Мужские" tvg-name="Трофей_HD" tvg-id="" tvg-logo="",Трофей HD
-http://192.168.1.203:8000/pid/e35efcfef052130c7fdf2362fb0baa346e72f917/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Туран_TV" tvg-id="" tvg-logo="",Туран TV
-http://192.168.1.203:8000/pid/d5d2b3373488e9fec8bef424bcd929b9b91436d5/stream.mp4
-#EXTINF:-1 group-title="Детские" tvg-name="Улыбка_ребенка_HD" tvg-id="" tvg-logo="",Улыбка ребенка HD
-http://192.168.1.203:8000/pid/9566d39cabe9b21b14ec2fd57a02e0ddba523bd7/stream.mp4
-#EXTINF:-1 group-title="Общие" tvg-name="Унiан" tvg-id="" tvg-logo="",Унiан
-http://192.168.1.203:8000/pid/6d896752d5c8ded366812549cba6491f3f13bcd0/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Усадьба" tvg-id="" tvg-logo="",Усадьба
-http://192.168.1.203:8000/pid/55396ecedbcb70fe7bef646ec191a3f88aacd296/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Успех" tvg-id="" tvg-logo="",Успех
-http://192.168.1.203:8000/pid/dd733a0ef07738409cb0f391f5508fcb5ee7b6b1/stream.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-name="Фауна" tvg-id="" tvg-logo="",Фауна
-http://192.168.1.203:8000/pid/b1ebbc8602106dba7e9bd6f67b7c53741c9dfad7/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Футбол" tvg-id="" tvg-logo="",Футбол
-http://192.168.1.203:8000/pid/43fb9e6cbce9d13e4d37684a853b41ca5123f457/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Футбол_1_(Украина)" tvg-id="" tvg-logo="",Футбол 1 (Украина)
-http://192.168.1.203:8000/pid/fc6bfc9bdff81986577f9900c885b1a9ec83f30c/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Футбол_1_(Украина)_HD" tvg-id="" tvg-logo="",Футбол 1 (Украина) HD
-http://192.168.1.203:8000/pid/c2e442b4fcfb99936fb465641aa6a9b279d21671/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Футбол_2_(Украина)" tvg-id="" tvg-logo="",Футбол 2 (Украина)
-http://192.168.1.203:8000/pid/194690531a5e4a5c8076bafe2e4785beb1e03a9e/stream.mp4
-#EXTINF:-1 group-title="Спорт" tvg-name="Футбол_2_(Украина)_HD" tvg-id="" tvg-logo="",Футбол 2 (Украина) HD
-http://192.168.1.203:8000/pid/a200b433ed7efbf3073c18a4a84bc2c0cadc3425/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Хабар_24" tvg-id="" tvg-logo="",Хабар 24
-http://192.168.1.203:8000/pid/68e0bf167a9c7867983cd752f9ce087af5641a33/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="Царьград_ТВ" tvg-id="" tvg-logo="",Царьград ТВ
-http://192.168.1.203:8000/pid/251ebf3f8c9e2f84c5083a8e5e686f083df5e649/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Центральный_канал" tvg-id="" tvg-logo="",Центральный канал
-http://192.168.1.203:8000/pid/ed388eede6293aa65842949efad52aad47d8986b/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="ЧГТРК_Грозный" tvg-id="" tvg-logo="",ЧГТРК Грозный
-http://192.168.1.203:8000/pid/182d7702989971c6f163a50f3926c8cac4ea8482/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Че" tvg-id="" tvg-logo="",Че
-http://192.168.1.203:8000/pid/68b925f72eebb818e3231874bf0b528ec30b214c/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Че_(+7)" tvg-id="" tvg-logo="",Че (+7)
-http://192.168.1.203:8000/pid/fb2b31426e1d55fa31cf63c021f582cbd2e89879/stream.mp4
-#EXTINF:-1 group-title="Региональные" tvg-name="Черноморская_телекомпания" tvg-id="" tvg-logo="",Черноморская телекомпания
-http://192.168.1.203:8000/pid/40d87d6ac9c8cc25ddfca473fdb0bdb90ca25eec/stream.mp4
-#EXTINF:-1 group-title="Новостные" tvg-name="ЧП-Инфо" tvg-id="" tvg-logo="",ЧП-Инфо
-http://192.168.1.203:8000/pid/09613b7d9324a11b1d67149d153d0ea8fa134c95/stream.mp4
-#EXTINF:-1 group-title="Музыка" tvg-name="Шансон_ТВ" tvg-id="" tvg-logo="",Шансон ТВ
-http://192.168.1.203:8000/pid/851762217baa3fa4cda6151a7a9970e383ca0588/stream.mp4
-#EXTINF:-1 group-title="Эротика" tvg-name="Эгоист_ТВ" tvg-id="" tvg-logo="",Эгоист ТВ
-http://192.168.1.203:8000/pid/96f6ec732569d7ae42c010f77717430dc1f86e28/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Ю" tvg-id="" tvg-logo="",Ю
-http://192.168.1.203:8000/pid/d870a47bd1b4ab83b424e1e6833ec6bf9a299a19/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Ю_(+2)" tvg-id="" tvg-logo="",Ю (+2)
-http://192.168.1.203:8000/pid/b0249c3bd264e18d4a57ce4a27571c051bc3f754/stream.mp4
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Ювелирочка" tvg-id="" tvg-logo="",Ювелирочка
-http://192.168.1.203:8000/pid/6d2e6ee529b31ffa8e95a8012f6e746463bca1cd/stream.mp4
+#EXTM3U url-tvg="http://91.210.251.170/jtv_epg.zip" m3uautoload=1 cache=2000 deinterlace=1
+
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="hromadsketv" ,.Hromadske.TV
+http://91.210.251.170/channels/052e026a3754ac
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="1plus1" ,1+1
+http://91.210.251.170/channels/54ef7ba4b39c48
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="112_ukraina" ,112 Украина
+http://91.210.251.170/channels/1529ba1e976fda
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="atr" ,ATR
+http://91.210.251.170/channels/85196bcfbce1d4
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="espreso_tv" ,Espreso TV
+http://91.210.251.170/channels/752ab7ec0502c1
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="ictv" tvg-logo="ICTV" ,ICTV
+http://91.210.251.170/channels/44ef7ba4b365d7
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="shopping_tv" ,Shopping TV
+http://91.210.251.170/channels/94ef7ba4b8c982
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="ua__pershiy" tvg-logo="Первый канал (Украина)" ,UA: Перший
+http://91.210.251.170/channels/24ef7ba4b610ff
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="ua__pershiy_ukraine" ,UA: Перший Ukraine
+http://91.210.251.170/channels/15215fef7d0717
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="inter" tvg-logo="Интер" ,Інтер
+http://91.210.251.170/channels/14ef7ba4b37570
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="k1" tvg-logo="К1" ,К1
+http://91.210.251.170/channels/34ef7ba4b5b584
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="karavan_tv" ,Караван TV
+http://91.210.251.170/channels/44ef7ba4b75eed
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="kievskaya_rus" ,Киевская Русь
+http://91.210.251.170/channels/14ef7ba4ba0e61
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="kiiv" tvg-logo="ТРК Киев" ,Київ
+http://91.210.251.170/channels/84ef7ba4b90000
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="ntn" ,НТН
+http://91.210.251.170/channels/04ef7ba4b42095
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="noviy_kanal" tvg-logo="Новый канал" ,Новий канал
+http://91.210.251.170/channels/54ef7ba4b36da5
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="pershiy_zahidniy" ,Перший захiдний
+http://91.210.251.170/channels/7562a31d5abb42
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="pravda_tut" ,Правда Тут
+http://91.210.251.170/channels/7565ea79256be5
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="rossiya_k" ,Россия К
+http://91.210.251.170/channels/15190e581a877e
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="stb" tvg-logo="СТБ" ,СТБ
+http://91.210.251.170/channels/24ef7ba4b35e08
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="tet" tvg-logo="ТЕТ" ,ТЕТ
+http://91.210.251.170/channels/74ef7ba4b710cf
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="ukraina" tvg-logo="ТРК Украина" ,Україна
+http://91.210.251.170/channels/84ef7ba4b5f1bf
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="5_kanal" ,5 канал
+http://91.210.251.170/channels/04ef7ba4b532fb
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="bbc_world" tvg-logo="BBC World" ,BBC World
+http://91.210.251.170/channels/04ef7ba4ba5407
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="bbc_world_news" ,BBC World News
+http://91.210.251.170/channels/75878b6bebfd4f
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="bloomberg" ,Bloomberg
+http://91.210.251.170/channels/75190e57c67d10
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="cgtn_russian" tvg-logo="CCTV Russian" ,CGTN Russian
+http://91.210.251.170/channels/44ef7ba4ba63a7
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="euronews" tvg-logo="Euronews" ,EuroNews
+http://91.210.251.170/channels/84ef7ba4b4aad6
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="france_24" tvg-logo="France 24" ,France 24
+http://91.210.251.170/channels/44ef7ba4b9d725
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="news_one" ,News One
+http://91.210.251.170/channels/54ef7ba4b51bb6
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="ua_tv" tvg-logo="УТР-UA" ,UA TV
+http://91.210.251.170/channels/34ef7ba4b90f8e
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="zik" ,Zik
+http://91.210.251.170/channels/854ddfbd61b001
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="glas" ,Глас
+http://91.210.251.170/channels/34ef7ba4b8c1bb
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="gorizont_tv" ,Горизонт TV
+http://91.210.251.170/channels/851363f6fe030d
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="novini_24" ,Новини 24
+http://91.210.251.170/channels/14ef7ba4b6f0da
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="pershiy_diloviy" ,Перший дiловий
+http://91.210.251.170/channels/44ef7ba4b72070
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="pryamiy" tvg-logo="Тонис" ,Прямий
+http://91.210.251.170/channels/84ef7ba4b5869f
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="rada" ,Рада
+http://91.210.251.170/channels/24ef7ba4b854be
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="unian" tvg-logo="Уніан" ,Уніан
+http://91.210.251.170/channels/44ef7ba4b86465
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="chpinfo" ,ЧП.INFO
+http://91.210.251.170/channels/74ef7ba4b6db68
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="chernomorskaya_trk" ,Черноморская ТРК
+http://91.210.251.170/channels/7582b489e67577
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="2plus2" ,2+2
+http://91.210.251.170/channels/94ef7ba4b3da85
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="2x2" tvg-logo="2x2" ,2x2
+http://91.210.251.170/channels/14ef7ba4b98c17
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="cbs_reality" tvg-logo="Zone Reality" ,CBS Reality
+http://91.210.251.170/channels/84ef7ba4b873fe
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="maxxi_tv" ,Maxxi-TV
+http://91.210.251.170/channels/14ef7ba4b89ad0
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="mi_lady" tvg-logo="ТВ_" ,Mi Lady
+http://91.210.251.170/channels/74ef7ba4b7570a
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="bigudi_tv" ,Бигуди ТВ
+http://91.210.251.170/channels/04ef7ba4b92ea7
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="vintazh_tv" ,Вінтаж ТВ
+http://91.210.251.170/channels/6582b4f8c187c1
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="domashniy" tvg-logo="Домашний" ,Домашний
+http://91.210.251.170/channels/54ef7ba4b52377
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="indigo_tv" ,Индиго ТВ
+http://91.210.251.170/channels/156616d275025d
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="k2" ,К2
+http://91.210.251.170/channels/54ef7ba4b58e83
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="nlo_tv" ,НЛО-ТВ
+http://91.210.251.170/channels/05196a4eeb485a
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="otse" ,ОЦЕ
+http://91.210.251.170/channels/64ef7ba4b3947e
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="pyatnitsa" ,Пятница
+http://91.210.251.170/channels/14ef7ba4b45ee3
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="sts" ,СТС
+http://91.210.251.170/channels/84ef7ba4b40951
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="sontse" ,Сонце
+http://91.210.251.170/channels/45523ec60acc37
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="tnt_4" tvg-logo="Comedy Club TV" ,ТНТ 4
+http://91.210.251.170/channels/24ef7ba4b384f0
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="trofey" ,Трофей
+http://91.210.251.170/channels/5573b3085a599d
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="yu" tvg-logo="Муз ТВ" ,Ю
+http://91.210.251.170/channels/04ef7ba4b6a4c9
+#EXTINF:0 audio-track=1 group-title="Познавательные" tvg-name="animal_planet" tvg-logo="Animal Planet" ,Animal Planet
+http://91.210.251.170/channels/74ef7ba4b5f990
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="dtx" tvg-logo="Discovery World" ,DTX
+http://91.210.251.170/channels/24ef7ba4b53ac1
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="da_vinci_learning" tvg-logo="Da Vinci Learning" ,Da Vinci Learning
+http://91.210.251.170/channels/64ef7ba4b6478b
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="discovery_channel" tvg-logo="Discovery Channel" ,Discovery Channel
+http://91.210.251.170/channels/24ef7ba4b3a402
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="discovery_science" tvg-logo="Discovery Science" ,Discovery Science
+http://91.210.251.170/channels/44ef7ba4b437f8
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="history" ,History
+http://91.210.251.170/channels/956606bdd037c9
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="investigation_discovery" tvg-logo="Investigation Discovery" ,Investigation Discovery
+http://91.210.251.170/channels/54ef7ba4b57911
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="nat_geo_wild" tvg-logo="National Geographic Wild" ,Nat Geo Wild
+http://91.210.251.170/channels/04ef7ba4b50daa
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="national_geographic" ,National Geographic
+http://91.210.251.170/channels/94ef7ba4b5964e
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="outdoor_channel" tvg-logo="Outdoor Channel" ,Outdoor Channel
+http://91.210.251.170/channels/24ef7ba4b81e11
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="tlc" tvg-logo="TLC" ,TLC
+http://91.210.251.170/channels/74ef7ba4b637f9
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="travel_channel" ,Travel Channel
+http://91.210.251.170/channels/84f15a404380e0
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="ua__kultura" tvg-logo="Культура" ,UA: Культура
+http://91.210.251.170/channels/14ef7ba4b8f839
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="viasat_explorer" tvg-logo="Viasat Explorer" ,Viasat Explorer
+http://91.210.251.170/channels/04ef7ba4b4f6b2
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="viasat_history" ,Viasat History
+http://91.210.251.170/channels/94ef7ba4b4e717
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="viasat_nature" ,Viasat Nature
+http://91.210.251.170/channels/14ef7ba4b49378
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="dacha" tvg-logo="Impact" ,Дача
+http://91.210.251.170/channels/64ef7ba4b8e8a7
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="kuhnya_tv" tvg-logo="Кухня ТВ" ,Кухня ТВ
+http://91.210.251.170/channels/44ef7ba4b766ba
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="mega" ,Мега
+http://91.210.251.170/channels/54ef7ba4b4302d
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="nauka" ,Наука
+http://91.210.251.170/channels/65a6753aea9395
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="terra" ,Терра
+http://91.210.251.170/channels/45a6752fcb2ecb
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="fauna" ,Фауна
+http://91.210.251.170/channels/25a675281eb796
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="eko_tv" ,Эко-ТВ
+http://91.210.251.170/channels/14f5e0d9cc36d6
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="amc" tvg-logo="MGM" ,AMC
+http://91.210.251.170/channels/04ef7ba4b8358b
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="amedia_1" ,Amedia 1
+http://91.210.251.170/channels/05190e5670a8e0
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="enter_film" ,Enter фiльм
+http://91.210.251.170/channels/94ef7ba4b47d4e
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="fox" ,FOX
+http://91.210.251.170/channels/44ef7ba4b43fc4
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="fox_life" tvg-logo="FOX Life" ,FOX Life
+http://91.210.251.170/channels/94ef7ba4b45728
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="sony_sci_fi" tvg-logo="AXN Sci-fi" ,Sony Sci-Fi
+http://91.210.251.170/channels/24ef7ba4b69532
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="tv_xxi" tvg-logo="XXI" ,TV XXI
+http://91.210.251.170/channels/74ef7ba4b4c9ff
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="tv1000" tvg-logo="TV 1000" ,TV1000
+http://91.210.251.170/channels/44ef7ba4b6015b
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="tv1000_action" tvg-logo="TV1000" ,TV1000 Action
+http://91.210.251.170/channels/14ef7ba4b57eeb
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="tv1000_russkoe_kino" tvg-logo="TV1000 Русское кино" ,TV1000 Русское кино
+http://91.210.251.170/channels/44ef7ba4b72840
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="evrokino" tvg-logo="Еврокино" ,Еврокино
+http://91.210.251.170/channels/34ef7ba4b4764b
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="ntv_kinokomediya" tvg-logo="Комедия ТВ" ,НТВ Кинокомедия
+http://91.210.251.170/channels/84ef7ba4b466af
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="ntv_kinomiks" ,НТВ Киномикс
+http://91.210.251.170/channels/84ef7ba4b6e32b
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="ntv_kinosvidanie" tvg-logo="НТВ Киноклуб" ,НТВ Киносвидание
+http://91.210.251.170/channels/54ef7ba4b67dea
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="ntv_kinosemya" tvg-logo="НТВ Премьера" ,НТВ Киносемья
+http://91.210.251.170/channels/64ef7ba4b6302d
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="ntv_kinohit" tvg-logo="Кинохит" ,НТВ Кинохит
+http://91.210.251.170/channels/04ef7ba4b38cb7
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="ntv_muzhskoe_kino" tvg-logo="Интересное ТВ" ,НТВ Мужское кино
+http://91.210.251.170/channels/34ef7ba4b86c2f
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="ntv_nashe_novoe_kino" tvg-logo="НТВ Наше Новое Кино" ,НТВ Наше Новое Кино
+http://91.210.251.170/channels/44ef7ba4b41108
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="ntv_rodnoe_kino" tvg-logo="Наше Кино" ,НТВ Родное кино
+http://91.210.251.170/channels/94ef7ba4b77536
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="tv_3" ,ТВ-3
+http://91.210.251.170/channels/65190e5846427a
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="egoist_tv" ,Эгоист ТВ
+http://91.210.251.170/channels/34f15cd9c555c8
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="bridge_tv" tvg-logo="Bridge TV" ,Bridge TV
+http://91.210.251.170/channels/14ef7ba4b737dc
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="mcm_top" tvg-logo="MCM Top" ,MCM Top
+http://91.210.251.170/channels/64ef7ba4b7a900
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="mtv_dance" tvg-logo="MTV Dance" ,MTV Dance
+http://91.210.251.170/channels/94ef7ba4b559e0
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="mtv_hits_uk" ,MTV Hits UK
+http://91.210.251.170/channels/94f25dd28b2198
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="mtv_rocks" tvg-logo="MTV Rocks" ,MTV Rocks
+http://91.210.251.170/channels/44ef7ba4b4fe13
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="mezzo" tvg-logo="MEZZO" ,Mezzo
+http://91.210.251.170/channels/94ef7ba4b96cf2
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="music_box_ua" tvg-logo="Music Box" ,Music Box UA
+http://91.210.251.170/channels/24ef7ba4b80e70
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="o_tv_music" tvg-logo="O-TV Music" ,O-TV Music
+http://91.210.251.170/channels/34ef7ba4b74f44
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="rusong_tv" tvg-logo="Rusong TV" ,Rusong TV
+http://91.210.251.170/channels/14ef7ba4b4ba6d
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="vh1" tvg-logo="VH1" ,VH1
+http://91.210.251.170/channels/24ef7ba4b70063
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="vh1_classic" ,VH1 Classic
+http://91.210.251.170/channels/24ef7ba4b65eda
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="zoom" tvg-logo="MTV Music" ,ZOOM
+http://91.210.251.170/channels/74ef7ba4b5e9ff
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="evropa_plyus_tv" ,Европа Плюс ТВ
+http://91.210.251.170/channels/95190e57ece960
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="m1" ,М1
+http://91.210.251.170/channels/94ef7ba4b6eaf6
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="m2_estrada" ,М2 Эстрада
+http://91.210.251.170/channels/14ef7ba4b3caed
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="muz_tv" ,Муз ТВ
+http://91.210.251.170/channels/25498a2ae80902
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="eurosport_1" ,Eurosport 1
+http://91.210.251.170/channels/64ef7ba4b5e237
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="extreme_sports" tvg-logo="Extreme Sports" ,Extreme Sports
+http://91.210.251.170/channels/24ef7ba4b69cf9
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="viasat_sport" tvg-logo="Viasat Sport" ,Viasat Sport
+http://91.210.251.170/channels/54ef7ba4b65719
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="x_sport" ,X Sport
+http://91.210.251.170/channels/15a67275e59051
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="match_arena" tvg-logo="Спорт 1" ,Матч! Арена
+http://91.210.251.170/channels/44ef7ba4b926dc
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="match_igra" ,Матч! Игра
+http://91.210.251.170/channels/74ef7ba4b83d57
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="match_nash_sport" tvg-logo="НТВ Спорт Плюс" ,Матч! Наш Спорт
+http://91.210.251.170/channels/04ef7ba4b3b394
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="match_planeta" ,Матч! Планета
+http://91.210.251.170/channels/14ef7ba4b418ce
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="match_tv" ,Матч! ТВ
+http://91.210.251.170/channels/5566067dfc45c1
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="match_futbol_1" ,Матч! Футбол 1
+http://91.210.251.170/channels/34ef7ba4b5bd44
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="match_futbol_2" tvg-logo="НТВ Футбол 2" ,Матч! Футбол 2
+http://91.210.251.170/channels/44ef7ba4b3f1f3
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="match_futbol_3" ,Матч! Футбол 3
+http://91.210.251.170/channels/954e5fdc1b8f64
+#EXTINF:0 audio-track=1 group-title="Детские" tvg-name="cartoon_network" tvg-logo="Cartoon Network" ,Cartoon Network
+http://91.210.251.170/channels/64ef7ba4b4005b
+#EXTINF:0 audio-track=0 group-title="Детские" tvg-name="disney_channel" tvg-logo="Disney Channel" ,Disney Channel
+http://91.210.251.170/channels/04ef7ba4b54288
+#EXTINF:0 audio-track=0 group-title="Детские" tvg-name="gulli_girl" tvg-logo="Gulli" ,Gulli Girl
+http://91.210.251.170/channels/54ef7ba4b781f2
+#EXTINF:0 audio-track=0 group-title="Детские" tvg-name="jim_jam" tvg-logo="JimJam" ,Jim Jam
+http://91.210.251.170/channels/54ef7ba4b44790
+#EXTINF:0 audio-track=0 group-title="Детские" tvg-name="nickelodeon" tvg-logo="Nickelodeon" ,Nickelodeon
+http://91.210.251.170/channels/04ef7ba4b37d34
+#EXTINF:0 audio-track=0 group-title="Детские" tvg-name="tiji" tvg-logo="TiJi" ,TiJi
+http://91.210.251.170/channels/04ef7ba4b55215
+#EXTINF:0 audio-track=0 group-title="Детские" tvg-name="detskiy_mir" tvg-logo="Детский Мир" ,Детский Мир
+http://91.210.251.170/channels/24ef7ba4b76d67
+#EXTINF:0 audio-track=0 group-title="Детские" tvg-name="malyatko_tv" ,Малятко ТВ
+http://91.210.251.170/channels/34ef7ba4b82db9
+#EXTINF:0 audio-track=0 group-title="Детские" tvg-name="piksel" tvg-logo="Enter" ,Пиксель
+http://91.210.251.170/channels/64ef7ba4b44f57
+#EXTINF:0 audio-track=0 group-title="Детские" tvg-name="plyusplyus" tvg-logo="Siti" ,Плюсплюс
+http://91.210.251.170/channels/94ef7ba4b56972
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="112_ukraina_hd" ,112 Украина HD
+http://91.210.251.170/channels/5529baac805771
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="amedia_premium_hd" ,Amedia Premium HD
+http://91.210.251.170/channels/91194a4ebb48ca
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="animal_planet_hd" ,Animal Planet HD
+http://91.210.251.170/channels/54ef7ba4b685ad
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="discovery_hd" ,Discovery HD
+http://91.210.251.170/channels/54ef7ba4b3c327
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="eurosport_1_hd" ,Eurosport 1 HD
+http://91.210.251.170/channels/54ef7ba4b63fbf
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="fox_hd" ,FOX HD
+http://91.210.251.170/channels/45739fb78acada
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="history_hd" ,History HD
+http://91.210.251.170/channels/0524e1cd78b6f0
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="mgm_hd" ,MGM HD
+http://91.210.251.170/channels/05092effe2abd1
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="mtv_live_hd" ,MTV Live HD
+http://91.210.251.170/channels/64ef7ba4b5adb5
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="mezzo_live_hd" ,Mezzo Live HD
+http://91.210.251.170/channels/84f0a096a2dcb8
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="nat_geo_wild_hd" ,Nat Geo Wild HD
+http://91.210.251.170/channels/04ef7ba4b4a305
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="national_geographic_hd" ,National Geographic HD
+http://91.210.251.170/channels/5524fe2b82787f
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="nickelodeon_hd" ,Nickelodeon HD
+http://91.210.251.170/channels/84ef7ba4b7c842
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="tlc_hd" ,TLC HD
+http://91.210.251.170/channels/6524e1e3839c13
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="travel_channel_hd" ,Travel Channel HD
+http://91.210.251.170/channels/0524e1eb002c1b
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="vip_comedy_hd" ,VIP Comedy HD
+http://91.210.251.170/channels/154c6678d63053
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="vip_megahit_hd" ,VIP Megahit HD
+http://91.210.251.170/channels/854c66797c5e66
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="vip_premiere_hd" ,VIP Premiere HD
+http://91.210.251.170/channels/554c6679ea3798
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="viasat_nature_history_hd" ,Viasat Nature/History HD
+http://91.210.251.170/channels/854c6683b1c38c
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="viasat_sport_hd" ,Viasat Sport HD
+http://91.210.251.170/channels/554c6684300252
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="match_arena_hd" ,Матч! Арена HD
+http://91.210.251.170/channels/84fad5234b320b
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="match_igra_hd" ,Матч! Игра HD
+http://91.210.251.170/channels/04ef7ba4b67624
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="match_tv_hd" ,Матч! ТВ HD
+http://91.210.251.170/channels/6573f371965a1c
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="match_futbol_1_hd" ,Матч! Футбол 1 HD
+http://91.210.251.170/channels/64ef7ba4b4c242
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="match_futbol_2_hd" ,Матч! Футбол 2 HD
+http://91.210.251.170/channels/04fad51c1aebe5
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="match_futbol_3_hd" ,Матч! Футбол 3 HD
+http://91.210.251.170/channels/654c6675ce65fc
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="ntv_kinopremera_hd" ,НТВ Кинопремьера HD
+http://91.210.251.170/channels/84ef7ba4b4b2aa
+#EXTINF:0 audio-track=0 group-title="HD каналы" tvg-name="pryamiy_hd" ,Прямий HD
+http://91.210.251.170/channels/0524fe25ee25bc

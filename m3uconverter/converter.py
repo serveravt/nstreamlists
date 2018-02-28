@@ -80,7 +80,7 @@ def saveAsXML(playlist):
     tree.write("output.xml", encoding="UTF-8", xml_declaration=True)
 
 def downloadNewList():
-    urllib.urlretrieve("http://192.168.1.203:8000/torrent-telik", "list.m3u")
+    urllib.urlretrieve("http://iptv.local/iptv.m3u8", "list.m3u")
 
 def convert():
     # m3ufile=sys.argv[1]
