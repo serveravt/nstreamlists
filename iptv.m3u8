@@ -1,0 +1,75 @@
+#EXTM3U
+
+
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="hromadsketv" ,.Hromadske.TV
+http://91.210.251.170/channels/052e026a3754ac
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="1plus1" ,1+1
+http://91.210.251.170/channels/54ef7ba4b39c48
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="112_ukraina" ,112 Украина
+http://91.210.251.170/channels/1529ba1e976fda
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="espreso_tv" ,Espreso TV
+http://91.210.251.170/channels/752ab7ec0502c1
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="ictv" tvg-logo="ICTV" ,ICTV
+http://91.210.251.170/channels/44ef7ba4b365d7
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="ua__pershiy" tvg-logo="Первый канал (Украина)" ,UA: Перший
+http://91.210.251.170/channels/24ef7ba4b610ff
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="inter" tvg-logo="Интер" ,Інтер
+http://91.210.251.170/channels/14ef7ba4b37570
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="k1" tvg-logo="К1" ,К1
+http://91.210.251.170/channels/34ef7ba4b5b584
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="kiiv" tvg-logo="ТРК Киев" ,Київ
+http://91.210.251.170/channels/84ef7ba4b90000
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="ntn" ,НТН
+http://91.210.251.170/channels/04ef7ba4b42095
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="noviy_kanal" tvg-logo="Новый канал" ,Новий канал
+http://91.210.251.170/channels/54ef7ba4b36da5
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="stb" tvg-logo="СТБ" ,СТБ
+http://91.210.251.170/channels/24ef7ba4b35e08
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="tet" tvg-logo="ТЕТ" ,ТЕТ
+http://91.210.251.170/channels/74ef7ba4b710cf
+#EXTINF:0 audio-track=0 group-title="Общеформатные" tvg-name="ukraina" tvg-logo="ТРК Украина" ,Україна
+http://91.210.251.170/channels/84ef7ba4b5f1bf
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="5_kanal" ,5 канал
+http://91.210.251.170/channels/04ef7ba4b532fb
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="news_one" ,News One
+http://91.210.251.170/channels/54ef7ba4b51bb6
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="zik" ,Zik
+http://91.210.251.170/channels/854ddfbd61b001
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="novini_24" ,Новини 24
+http://91.210.251.170/channels/14ef7ba4b6f0da
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="pryamiy" tvg-logo="Тонис" ,Прямий
+http://91.210.251.170/channels/84ef7ba4b5869f
+#EXTINF:0 audio-track=0 group-title="Новостные" tvg-name="rada" ,Рада
+http://91.210.251.170/channels/24ef7ba4b854be
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="2plus2" ,2+2
+http://91.210.251.170/channels/94ef7ba4b3da85
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="vintazh_tv" ,Вінтаж ТВ
+http://91.210.251.170/channels/6582b4f8c187c1
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="indigo_tv" ,Индиго ТВ
+http://91.210.251.170/channels/156616d275025d
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="k2" ,К2
+http://91.210.251.170/channels/54ef7ba4b58e83
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="nlo_tv" ,НЛО-ТВ
+http://91.210.251.170/channels/05196a4eeb485a
+#EXTINF:0 audio-track=0 group-title="Развлекательные" tvg-name="sontse" ,Сонце
+http://91.210.251.170/channels/45523ec60acc37
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="ua__kultura" tvg-logo="Культура" ,UA: Культура
+http://91.210.251.170/channels/14ef7ba4b8f839
+#EXTINF:0 audio-track=0 group-title="Познавательные" tvg-name="mega" ,Мега
+http://91.210.251.170/channels/54ef7ba4b4302d
+#EXTINF:0 audio-track=0 group-title="Кино" tvg-name="enter_film" ,Enter фiльм
+http://91.210.251.170/channels/94ef7ba4b47d4e
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="music_box_ua" tvg-logo="Music Box" ,Music Box UA
+http://91.210.251.170/channels/24ef7ba4b80e70
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="o_tv_music" tvg-logo="O-TV Music" ,O-TV Music
+http://91.210.251.170/channels/34ef7ba4b74f44
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="zoom" tvg-logo="MTV Music" ,ZOOM
+http://91.210.251.170/channels/74ef7ba4b5e9ff
+#EXTINF:0 audio-track=0 group-title="Музыка" tvg-name="m1" ,М1
+http://91.210.251.170/channels/94ef7ba4b6eaf6
+#EXTINF:0 audio-track=0 group-title="Спорт" tvg-name="x_sport" ,X Sport
+http://91.210.251.170/channels/15a67275e59051
+#EXTINF:0 audio-track=0 group-title="Детские" tvg-name="piksel" tvg-logo="Enter" ,Пиксель
+http://91.210.251.170/channels/64ef7ba4b44f57
+#EXTINF:0 audio-track=0 group-title="Детские" tvg-name="plyusplyus" tvg-logo="Siti" ,Плюсплюс
+http://91.210.251.170/channels/94ef7ba4b56972
